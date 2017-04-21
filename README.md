@@ -70,6 +70,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter and follow 
 * SAD-GAN - [SAD-GAN: Synthetic Autonomous Driving using Generative Adversarial Networks](http://arxiv.org/abs/1611.08788v1)
 * SalGAN - [SalGAN: Visual Saliency Prediction with Generative Adversarial Networks](http://arxiv.org/abs/1701.01081v2)
 * SEGAN - [SEGAN: Speech Enhancement Generative Adversarial Network](http://arxiv.org/abs/1703.09452v1)
+* SeGAN - [SeGAN: Segmenting and Generating the Invisible](https://arxiv.org/abs/1703.10239)
 * SeqGAN - [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://arxiv.org/abs/1609.05473v5)
 * SketchGAN - [Adversarial Training For Sketch Retrieval](https://arxiv.org/abs/1607.02748)
 * SL-GAN - [Semi-Latent GAN: Learning to generate and modify facial images from attributes](https://arxiv.org/abs/1704.02166)
