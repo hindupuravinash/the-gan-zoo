@@ -48,6 +48,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter and follow 
 * LS-GAN - [Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities](http://arxiv.org/abs/1701.06264v5)
 * MGAN - [Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks](https://arxiv.org/abs/1604.04382)
 * MAGAN - [MAGAN: Margin Adaptation for Generative Adversarial Networks](http://arxiv.org/abs/1704.03817v1)
+* MAD-GAN - [Multi-Agent Diverse Generative Adversarial Networks](https://arxiv.org/abs/1704.02906)
 * MalGAN - [Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN](http://arxiv.org/abs/1702.05983v1)
 * MARTA-GAN - [Deep Unsupervised Representation Learning for Remote Sensing Images](https://arxiv.org/abs/1612.08879)
 * McGAN - [McGan: Mean and Covariance Feature Matching GAN](http://arxiv.org/abs/1702.08398v1)
