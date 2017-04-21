@@ -23,7 +23,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter and follow 
 * BEGAN - [BEGAN: Boundary Equilibrium Generative Adversarial Networks](http://arxiv.org/abs/1703.10717v2)
 * BiGAN - [Adversarial Feature Learning](http://arxiv.org/abs/1605.09782v7)
 * BS-GAN - [Boundary-Seeking Generative Adversarial Networks](http://arxiv.org/abs/1702.08431v1)
-* CGAN - [Towards Diverse and Natural Image Descriptions via a Conditional GAN](http://arxiv.org/abs/1703.06029v1)
+* CGAN - [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
 * CCGAN - [Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks](https://arxiv.org/abs/1611.06430v1)
 * CatGAN - [Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks](http://arxiv.org/abs/1511.06390v2)
 * CoGAN - [Coupled Generative Adversarial Networks](http://arxiv.org/abs/1606.07536v2)
