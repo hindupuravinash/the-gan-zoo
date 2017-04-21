@@ -69,6 +69,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter and follow 
 * SeqGAN - [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://arxiv.org/abs/1609.05473v5)
 * SketchGAN - [Adversarial Training For Sketch Retrieval](https://arxiv.org/abs/1607.02748)
 * SL-GAN - [Semi-Latent GAN: Learning to generate and modify facial images from attributes](https://arxiv.org/abs/1704.02166)
+* Softmax-GAN - [Softmax GAN](https://arxiv.org/abs/1704.06191)
 * SRGAN - [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](http://arxiv.org/abs/1609.04802v3)
 * S^2GAN - [Generative Image Modeling using Style and Structure Adversarial Networks](http://arxiv.org/abs/1603.05631v2)
 * SSL-GAN - [Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks](https://arxiv.org/abs/1611.06430v1)
