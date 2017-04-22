@@ -83,6 +83,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter and follow 
 * TAC-GAN - [TAC-GAN - Text Conditioned Auxiliary Classifier Generative Adversarial Network](http://arxiv.org/abs/1703.06412v2)
 * TP-GAN - [Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis](https://arxiv.org/abs/1704.04086)
 * Triple-GAN - [Triple Generative Adversarial Nets](http://arxiv.org/abs/1703.02291v2)
+* Unrolled GAN - [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163)
 * VGAN - [Generating Videos with Scene Dynamics](https://arxiv.org/abs/1609.02612)
 * VGAN - [Generative Adversarial Networks as Variational Training of Energy Based Models](https://arxiv.org/abs/1611.01799)
 * VAE-GAN - [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/abs/1512.09300)
