@@ -6,7 +6,7 @@ Every week, new GAN papers are coming out and it's hard to keep track of them al
 
 Contributions are welcome. Add links through pull requests or create an issue to lemme know something I missed or to start a discussion.
 
-Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter and follow me on [Twitter](https://www.twitter.com/hindupuravinash).
+Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this repo as [blogpost](https://medium.com/deep-hunt/the-gan-zoo-79597dc8c347) and follow me on [Twitter](https://www.twitter.com/hindupuravinash).
 
 * GAN - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 * 3D-GAN - [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/abs/1610.07584)
