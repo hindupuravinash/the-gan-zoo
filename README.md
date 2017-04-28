@@ -76,6 +76,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * SEGAN - [SEGAN: Speech Enhancement Generative Adversarial Network](http://arxiv.org/abs/1703.09452v1)
 * SeGAN - [SeGAN: Segmenting and Generating the Invisible](https://arxiv.org/abs/1703.10239)
 * SeqGAN - [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://arxiv.org/abs/1609.05473v5)
+* SimGAN - [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/abs/1612.07828)
 * SketchGAN - [Adversarial Training For Sketch Retrieval](https://arxiv.org/abs/1607.02748)
 * SL-GAN - [Semi-Latent GAN: Learning to generate and modify facial images from attributes](https://arxiv.org/abs/1704.02166)
 * Softmax-GAN - [Softmax GAN](https://arxiv.org/abs/1704.06191)
