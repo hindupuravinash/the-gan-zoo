@@ -33,7 +33,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * CoGAN - [Coupled Generative Adversarial Networks](http://arxiv.org/abs/1606.07536v2)
 * Context-RNN-GAN - [Contextual RNN-GANs for Abstract Reasoning Diagram Generation](https://arxiv.org/abs/1609.09444)
 * C-RNN-GAN - [C-RNN-GAN: Continuous recurrent neural networks with adversarial training](https://arxiv.org/abs/1611.09904)
-* CS-GAN - [Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets] (https://arxiv.org/abs/1703.04887)
+* CS-GAN - [Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets](https://arxiv.org/abs/1703.04887)
 * CVAE-GAN - [CVAE-GAN: Fine-Grained Image Generation through Asymmetric Training](https://arxiv.org/abs/1703.10155)
 * CycleGAN - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
 * DTN — [Unsupervised Cross-Domain Image Generation](https://arxiv.org/abs/1611.02200)
