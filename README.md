@@ -4,7 +4,7 @@
 
 Every week, new GAN papers are coming out and it's hard to keep track of them all, not to mention the incredibly creative ways in which researchers are naming these GANs! So, here's a list of what started as a fun activity compiling all named GANs!
 
-<p align="center"><img width="40%" src="cumulative_gan.jpg" /></p>
+<p align="center"><img width="50%" src="cumulative_gan.jpg" /></p>
 
 Contributions are welcome. Add links through pull requests or create an issue to lemme know something I missed or to start a discussion.
 
@@ -28,6 +28,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * BiGAN - [Adversarial Feature Learning](https://arxiv.org/abs/1605.09782v7)
 * BS-GAN - [Boundary-Seeking Generative Adversarial Networks](https://arxiv.org/abs/1702.08431v1)
 * CGAN - [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
+* CaloGAN - [CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://arxiv.org/abs/1705.02355)
 * CCGAN - [Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks](https://arxiv.org/abs/1611.06430v1)
 * CatGAN - [Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks](https://arxiv.org/abs/1511.06390v2)
 * CoGAN - [Coupled Generative Adversarial Networks](https://arxiv.org/abs/1606.07536v2)
@@ -45,6 +46,8 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * f-GAN - [f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/abs/1606.00709)
 * FF-GAN - [Towards Large-Pose Face Frontalization in the Wild](https://arxiv.org/abs/1704.06244)
 * GAWWN - [Learning What and Where to Draw](https://arxiv.org/abs/1610.02454)
+* GeneGAN - [GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data](https://arxiv.org/abs/1705.04932)
+* Geometric GAN - [Geometric GAN](https://arxiv.org/abs/1705.02894)
 * GoGAN - [Gang of GANs: Generative Adversarial Networks with Maximum Margin Ranking](https://arxiv.org/abs/1704.04865)
 * GP-GAN - [GP-GAN: Towards Realistic High-Resolution Image Blending](https://arxiv.org/abs/1703.07195v2)
 * IAN - [Neural Photo Editing with Introspective Adversarial Networks](https://arxiv.org/abs/1609.07093)
@@ -72,6 +75,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * MV-BiGAN - [Multi-view Generative Adversarial Networks](https://arxiv.org/abs/1611.02019v1)
 * pix2pix - [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
 * PPGN - [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space](https://arxiv.org/abs/1612.00005)
+* Pose-GAN - [The Pose Knows: Video Forecasting by Generating Pose Futures](https://arxiv.org/abs/1705.00053)
 * PrGAN - [3D Shape Induction from 2D Views of Multiple Objects](https://arxiv.org/abs/1612.05872)
 * RenderGAN - [RenderGAN: Generating Realistic Labeled Data](https://arxiv.org/abs/1611.01331)
 * RTT-GAN - [Recurrent Topic-Transition GAN for Visual Paragraph Generation](https://arxiv.org/abs/1703.07022v2)
