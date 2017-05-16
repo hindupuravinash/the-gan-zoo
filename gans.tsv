@@ -1,5 +1,5 @@
 Year	Month	Abbr.	Title	Arxiv
-2014	06	GAN     <a href=https://arxiv.org/abs/1406.2661>Generative Adversarial Networks</a>
+2014	06	GAN     <a href=https://arxiv.org/abs/1406.2661>Generative Adversarial Networks</a>     something
 2014	11	CGAN	Conditional Generative Adversarial Nets	https://arxiv.org/abs/1411.1784
 2015	06	LAPGAN	Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks	https://arxiv.org/abs/1506.05751
 2015	11	CatGAN	Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks	https://arxiv.org/abs/1511.06390v2
@@ -95,4 +95,4 @@ Year	Month	Abbr.	Title	Arxiv
 2017	05	Geometric GAN	Geometric GAN	https://arxiv.org/abs/1705.02894
 2017	05	Pose-GAN	The Pose Knows: Video Forecasting by Generating Pose Futures	https://arxiv.org/abs/1705.00053
 2017	??	DR-GAN	Disentangled Representation Learning GAN for Pose-Invariant Face Recognition	http://cse.msu.edu/~tranluan/publication/allPublication/2017/CVPR_DR_GAN.pdf
-20??	??	b-GAN	b-GAN: Unified Framework of Generative Adversarial Networks	https://openreview.net/pdf?id=S1JG13oee
+2y0??	??	b-GAN	b-GAN: Unified Framework of Generative Adversarial Networks	https://openreview.net/pdf?id=S1JG13oee
