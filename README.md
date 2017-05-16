@@ -73,7 +73,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * pix2pix - [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
 * PPGN - [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space](https://arxiv.org/abs/1612.00005)
 * PrGAN - [3D Shape Induction from 2D Views of Multiple Objects](https://arxiv.org/abs/1612.05872)
-* RenderGAN - [RenderGAN: Generating Realistic Labeled Data](https://arxiv.org/pdf/1611.01331.pdf)
+* RenderGAN - [RenderGAN: Generating Realistic Labeled Data](https://arxiv.org/abs/1611.01331)
 * RTT-GAN - [Recurrent Topic-Transition GAN for Visual Paragraph Generation](https://arxiv.org/abs/1703.07022v2)
 * SGAN - [Stacked Generative Adversarial Networks](https://arxiv.org/abs/1612.04357v4)
 * SGAN - [Texture Synthesis with Spatial Generative Adversarial Networks](https://arxiv.org/abs/1611.08207)
