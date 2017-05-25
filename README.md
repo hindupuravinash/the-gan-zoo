@@ -44,6 +44,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * DualGAN - [DualGAN: Unsupervised Dual Learning for Image-to-Image Translation](https://arxiv.org/abs/1704.02510v1)
 * EBGAN - [Energy-based Generative Adversarial Network](https://arxiv.org/abs/1609.03126v4)
 * f-GAN - [f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/abs/1606.00709)
+* Flow-GAN [Flow-GAN: Bridging implicit and prescribed learning in generative models](https://arxiv.org/abs/1705.08868)
 * FF-GAN - [Towards Large-Pose Face Frontalization in the Wild](https://arxiv.org/abs/1704.06244)
 * GAWWN - [Learning What and Where to Draw](https://arxiv.org/abs/1610.02454)
 * GeneGAN - [GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data](https://arxiv.org/abs/1705.04932)
