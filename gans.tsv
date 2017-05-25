@@ -91,6 +91,7 @@ Year	Month	Abbr.	Title	Arxiv
 2017	04	VariGAN	Multi-View Image Generation from a Single-View	https://arxiv.org/abs/1704.04886
 2017	04	WGAN-GP	Improved Training of Wasserstein GANs	https://arxiv.org/abs/1704.00028
 2017	05	CaloGAN	CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks	https://arxiv.org/abs/1705.02355
+2017	05	Flow-GAN	Flow-GAN: Bridging implicit and prescribed learning in generative models	https://arxiv.org/abs/1705.08868
 2017	05	GeneGAN	GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data	https://arxiv.org/abs/1705.04932
 2017	05	Geometric GAN	Geometric GAN	https://arxiv.org/abs/1705.02894
 2017	05	Pose-GAN	The Pose Knows: Video Forecasting by Generating Pose Futures	https://arxiv.org/abs/1705.00053
