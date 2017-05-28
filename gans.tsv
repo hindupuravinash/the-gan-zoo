@@ -101,6 +101,6 @@ Year	Month	Abbr.	Title	Arxiv
 2017	05	RPGAN	Stabilizing GAN Training with Multiple Random Projections	https://arxiv.org/abs/1705.07831
 2017	05	RWGAN	Relaxed Wasserstein with Applications to GANs	https://arxiv.org/abs/1705.07164
 2017	05	SD-GAN	Semantically Decomposing the Latent Spaces of Generative Adversarial Networks	https://arxiv.org/abs/1705.07904
-2017	05	VEEGAN	VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning	https://arxiv.org/abs/1705.07761	
+2017	05	VEEGAN	VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning	https://arxiv.org/abs/1705.07761
 2017	??	DR-GAN	Disentangled Representation Learning GAN for Pose-Invariant Face Recognition	http://cse.msu.edu/~tranluan/publication/allPublication/2017/CVPR_DR_GAN.pdf
 20??	??	b-GAN	b-GAN: Unified Framework of Generative Adversarial Networks	https://openreview.net/pdf?id=S1JG13oee
