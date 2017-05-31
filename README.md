@@ -47,6 +47,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * EBGAN - [Energy-based Generative Adversarial Network](https://arxiv.org/abs/1609.03126v4)
 * f-GAN - [f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/abs/1606.00709)
 * FF-GAN - [Towards Large-Pose Face Frontalization in the Wild](https://arxiv.org/abs/1704.06244)
+* Fisher GAN - [Fisher GAN](https://arxiv.org/abs/1705.09675)
 * Flow-GAN [Flow-GAN: Bridging implicit and prescribed learning in generative models](https://arxiv.org/abs/1705.08868)
 * GAN - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 * GAWWN - [Learning What and Where to Draw](https://arxiv.org/abs/1610.02454)
