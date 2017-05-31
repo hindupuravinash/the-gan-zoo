@@ -108,6 +108,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * TP-GAN - [Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis](https://arxiv.org/abs/1704.04086)
 * Triple-GAN - [Triple Generative Adversarial Nets](https://arxiv.org/abs/1703.02291v2)
 * Unrolled GAN - [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163)
+* Fisher GAN - [Fisher GAN](https://arxiv.org/abs/1705.09675)
 * VAE-GAN - [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/abs/1512.09300)
 * VariGAN - [Multi-View Image Generation from a Single-View](https://arxiv.org/abs/1704.04886)
 * VEEGAN - [VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning](https://arxiv.org/abs/1705.07761)
