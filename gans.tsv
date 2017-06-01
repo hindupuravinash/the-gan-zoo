@@ -91,18 +91,21 @@ Year	Month	Abbr.	Title	Arxiv
 2017	04	VariGAN	Multi-View Image Generation from a Single-View	https://arxiv.org/abs/1704.04886
 2017	04	WGAN-GP	Improved Training of Wasserstein GANs	https://arxiv.org/abs/1704.00028
 2017	05	CaloGAN	CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks	https://arxiv.org/abs/1705.02355
+2017	05	Cramèr GAN 	The Cramer Distance as a Solution to Biased Wasserstein Gradients	https://arxiv.org/abs/1705.10743
 2017	05	Fisher GAN	Fisher GAN	https://arxiv.org/abs/1705.09675
 2017	05	Flow-GAN	Flow-GAN: Bridging implicit and prescribed learning in generative models	https://arxiv.org/abs/1705.08868
 2017	05	GeneGAN	GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data	https://arxiv.org/abs/1705.04932
 2017	05	Geometric GAN	Geometric GAN	https://arxiv.org/abs/1705.02894
 2017	05	MMD-GAN	MMD GAN: Towards Deeper Understanding of Moment Matching Network	https://arxiv.org/abs/1705.08584
+2017	05	ORGAN	Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models 	https://arxiv.org/abs/1705.10843
 2017	05	PSGAN	Learning Texture Manifolds with the Periodic Spatial GAN	http://arxiv.org/abs/1705.06566
 2017	05	Pose-GAN	The Pose Knows: Video Forecasting by Generating Pose Futures	https://arxiv.org/abs/1705.00053
+2017	05	RankGAN	Adversarial Ranking for Language Generation 	https://arxiv.org/abs/1705.11001
 2017	05	RPGAN	Stabilizing GAN Training with Multiple Random Projections	https://arxiv.org/abs/1705.07831
 2017	05	RWGAN	Relaxed Wasserstein with Applications to GANs	https://arxiv.org/abs/1705.07164
 2017	05	SD-GAN	Semantically Decomposing the Latent Spaces of Generative Adversarial Networks	https://arxiv.org/abs/1705.07904
 2017	05	VEEGAN	VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning	https://arxiv.org/abs/1705.07761
-2017	05	Cramèr GAN 	The Cramer Distance as a Solution to Biased Wasserstein Gradients	https://arxiv.org/abs/1705.10743
+2017	05	WS-GAN	Weakly Supervised Generative Adversarial Networks for 3D Reconstruction 	https://arxiv.org/abs/1705.10904
 2017	??	DR-GAN	Disentangled Representation Learning GAN for Pose-Invariant Face Recognition	http://cse.msu.edu/~tranluan/publication/allPublication/2017/CVPR_DR_GAN.pdf
 2017	??	b-GAN	b-GAN: Unified Framework of Generative Adversarial Networks	https://openreview.net/pdf?id=S1JG13oee
 2017	05	DRAGAN	How to Train Your DRAGAN	https://arxiv.org/abs/1705.07215
