@@ -28,6 +28,7 @@ Year	Month	Abbr.	Title	Arxiv
 2016	11	C-RNN-GAN	C-RNN-GAN: Continuous recurrent neural networks with adversarial training	https://arxiv.org/abs/1611.09904
 2016	11	CCGAN	Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks	https://arxiv.org/abs/1611.06430v1
 2016	11	DTN	Unsupervised Cross-Domain Image Generation	https://arxiv.org/abs/1611.02200
+2016	11	GMAN	Generative Multi-Adversarial Networks	http://arxiv.org/abs/1611.01673
 2016	11	IcGAN	Invertible Conditional GANs for image editing	https://arxiv.org/abs/1611.06355
 2016	11	LSGAN	Least Squares Generative Adversarial Networks	https://arxiv.org/abs/1611.04076v3
 2016	11	MV-BiGAN	Multi-view Generative Adversarial Networks	https://arxiv.org/abs/1611.02019v1
@@ -111,8 +112,14 @@ Year	Month	Abbr.	Title	Arxiv
 2017	05	SD-GAN	Semantically Decomposing the Latent Spaces of Generative Adversarial Networks	https://arxiv.org/abs/1705.07904
 2017	05	VEEGAN	VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning	https://arxiv.org/abs/1705.07761
 2017	05	WS-GAN	Weakly Supervised Generative Adversarial Networks for 3D Reconstruction 	https://arxiv.org/abs/1705.10904
-2017	06	GANCS	Deep Generative Adversarial Networks for Compressed Sensing Automates MRI	https://arxiv.org/abs/1706.00051
+2017	06	DeliGAN	DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data	https://arxiv.org/abs/1706.02071
 2017	06	DSP-GAN	Depth Structure Preserving Scene Image Generation	https://arxiv.org/abs/1706.00212
+2017	06	Fila-GAN	Synthesizing Filamentary Structured Images with GANs	https://arxiv.org/abs/1706.02185
+2017	06	GANCS	Deep Generative Adversarial Networks for Compressed Sensing Automates MRI	https://arxiv.org/abs/1706.00051
+2017	06	IWGAN	On Unifying Deep Generative Models	https://arxiv.org/abs/1706.00550
+2017	06	PixelGAN	PixelGAN Autoencoders	https://arxiv.org/abs/1706.00531
+2017	06	RCGAN	Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs	https://arxiv.org/abs/1706.02633
+2017	06	SegAN	SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation	https://arxiv.org/abs/1706.01805
 2017	06	RNN-WGAN	Language Generation with Recurrent Generative Adversarial Networks without Pre-training	https://arxiv.org/abs/1706.01399
 2017	06	DistanceGAN	One-Sided Unsupervised Domain Mapping	https://arxiv.org/abs/1706.00826
 2017	??	DR-GAN	Disentangled Representation Learning GAN for Pose-Invariant Face Recognition	http://cse.msu.edu/~tranluan/publication/allPublication/2017/CVPR_DR_GAN.pdf
