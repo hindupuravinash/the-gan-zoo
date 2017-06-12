@@ -24,7 +24,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2016	10	3D-GAN	Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling	https://arxiv.org/abs/1610.07584	-
 2016	10	AC-GAN	Conditional Image Synthesis With Auxiliary Classifier GANs	https://arxiv.org/abs/1610.09585	-
 2016	10	AffGAN	Amortised MAP Inference for Image Super-resolution	https://arxiv.org/abs/1610.04490	-
-2016	10	GAWWN	Learning What and Where to Draw	https://arxiv.org/abs/1610.02454	-
+2016	10	GAWWN	Learning What and Where to Draw	https://arxiv.org/abs/1610.02454	https://github.com/olofmogren/c-rnn-gan
 2016	11	C-RNN-GAN	C-RNN-GAN: Continuous recurrent neural networks with adversarial training	https://arxiv.org/abs/1611.09904	-
 2016	11	CCGAN	Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks	https://arxiv.org/abs/1611.06430v1	-
 2016	11	DTN	Unsupervised Cross-Domain Image Generation	https://arxiv.org/abs/1611.02200	-
