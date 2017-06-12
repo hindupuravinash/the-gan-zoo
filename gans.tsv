@@ -120,5 +120,7 @@ Year	Month	Abbr.	Title	Arxiv
 2017	06	PixelGAN	PixelGAN Autoencoders	https://arxiv.org/abs/1706.00531
 2017	06	RCGAN	Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs	https://arxiv.org/abs/1706.02633
 2017	06	SegAN	SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation	https://arxiv.org/abs/1706.01805
+2017	06	RNN-WGAN	Language Generation with Recurrent Generative Adversarial Networks without Pre-training	https://arxiv.org/abs/1706.01399
+2017	06	DistanceGAN	One-Sided Unsupervised Domain Mapping	https://arxiv.org/abs/1706.00826
 2017	??	DR-GAN	Disentangled Representation Learning GAN for Pose-Invariant Face Recognition	http://cse.msu.edu/~tranluan/publication/allPublication/2017/CVPR_DR_GAN.pdf
 2017	??	b-GAN	b-GAN: Unified Framework of Generative Adversarial Networks	https://openreview.net/pdf?id=S1JG13oee
