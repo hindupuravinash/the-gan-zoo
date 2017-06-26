@@ -10,8 +10,8 @@ data = np.array([2000 + int(year) + int(month) / 12 for year, month in data_stri
 
 plt.hist(data, 100, cumulative="True")
 plt.xticks(range(2014, 2018))
-plt.yticks(np.arange(0,140, 10))
+plt.yticks(np.arange(0,150, 10))
 plt.title("Cumulative number of named GAN papers by month")
 plt.xlabel("Year")
 plt.ylabel("Total number of papers")
-plt.savefig('cumulative_gan.jpg')
+plt.savefig('cumulative_gans.jpg')

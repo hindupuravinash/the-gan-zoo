@@ -20,7 +20,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * AffGAN - [Amortised MAP Inference for Image Super-resolution](https://arxiv.org/abs/1610.04490)
 * AL-CGAN - [Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts](https://arxiv.org/abs/1612.00215)
 * ALI - [Adversarially Learned Inference](https://arxiv.org/abs/1606.00704)
-* aphaGAN - [Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/abs/1706.04987)
+* alphaGAN - [Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/abs/1706.04987)
 * AM-GAN - [Generative Adversarial Nets with Labeled Data by Activation Maximization](https://arxiv.org/abs/1703.02000)
 * AnoGAN - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/abs/1703.05921v1)
 * ARAE - [Adversarially Regularized Autoencoders for Generating Discrete Structures](https://arxiv.org/abs/1706.04223)
