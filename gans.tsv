@@ -26,6 +26,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2016	10	AC-GAN	Conditional Image Synthesis With Auxiliary Classifier GANs	https://arxiv.org/abs/1610.09585	-
 2016	10	AffGAN	Amortised MAP Inference for Image Super-resolution	https://arxiv.org/abs/1610.04490	-
 2016	10	GAWWN	Learning What and Where to Draw	https://arxiv.org/abs/1610.02454	https://github.com/reedscot/nips2016
+2016	11	b-GAN	Generative Adversarial Nets from a Density Ratio Estimation Perspective	https://arxiv.org/abs/1610.02920	-
 2016	11	C-RNN-GAN	C-RNN-GAN: Continuous recurrent neural networks with adversarial training	https://arxiv.org/abs/1611.09904	https://github.com/olofmogren/c-rnn-gan/
 2016	11	CC-GAN	Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks	https://arxiv.org/abs/1611.06430	https://github.com/edenton/cc-gan
 2016	11	DTN	Unsupervised Cross-Domain Image Generation	https://arxiv.org/abs/1611.02200	-
@@ -117,6 +118,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	05	VEEGAN	VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning	https://arxiv.org/abs/1705.07761	-
 2017	05	WS-GAN	Weakly Supervised Generative Adversarial Networks for 3D Reconstruction 	https://arxiv.org/abs/1705.10904	-
 2017	05	IRGAN	IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval models	https://arxiv.org/abs/1705.10513v1	-
+2017	05	DR-GAN	Representation Learning by Rotating Your Faces	https://arxiv.org/abs/1705.11136	-
 2017	06	α-GAN	Variational Approaches for Auto-Encoding Generative Adversarial Networks	https://arxiv.org/abs/1706.04987	-
 2017	06	ARAE	Adversarially Regularized Autoencoders for Generating Discrete Structures	https://arxiv.org/abs/1706.04223	https://github.com/jakezhaojb/ARAE
 2017	06	BCGAN	Bayesian Conditional Generative Adverserial Networks	https://arxiv.org/abs/1706.05477	-
@@ -136,5 +138,3 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	06	RNN-WGAN	Language Generation with Recurrent Generative Adversarial Networks without Pre-training	https://arxiv.org/abs/1706.01399	https://github.com/liuyuemaicha/Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow
 2017	06	SegAN	SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation	https://arxiv.org/abs/1706.01805	-
 2017	06	TextureGAN	TextureGAN: Controlling Deep Image Synthesis with Texture Patches	https://arxiv.org/abs/1706.02823	-
-2017	??	DR-GAN	Disentangled Representation Learning GAN for Pose-Invariant Face Recognition	http://cse.msu.edu/~tranluan/publication/allPublication/2017/CVPR_DR_GAN.pdf	-
-2017	??	b-GAN	b-GAN: Unified Framework of Generative Adversarial Networks	https://openreview.net/pdf?id=S1JG13oee	-
