@@ -117,7 +117,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	05	VEEGAN	VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning	https://arxiv.org/abs/1705.07761	-
 2017	05	WS-GAN	Weakly Supervised Generative Adversarial Networks for 3D Reconstruction 	https://arxiv.org/abs/1705.10904	-
 2017	05	IRGAN	IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval models	https://arxiv.org/abs/1705.10513v1	-
-2017	06	alphaGAN	Variational Approaches for Auto-Encoding Generative Adversarial Networks	https://arxiv.org/abs/1706.04987	-
+2017	06	α-GAN	Variational Approaches for Auto-Encoding Generative Adversarial Networks	https://arxiv.org/abs/1706.04987	-
 2017	06	ARAE	Adversarially Regularized Autoencoders for Generating Discrete Structures	https://arxiv.org/abs/1706.04223	https://github.com/jakezhaojb/ARAE
 2017	06	BCGAN	Bayesian Conditional Generative Adverserial Networks	https://arxiv.org/abs/1706.05477	-
 2017	06	CAN	CAN: Creative Adversarial Networks, Generating Art by Learning About Styles and Deviating from Style Norms	https://arxiv.org/abs/1706.07068	-
