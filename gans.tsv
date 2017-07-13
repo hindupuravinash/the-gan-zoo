@@ -95,6 +95,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	04	TAN	Outline Colorization through Tandem Adversarial Networks	https://arxiv.org/abs/1704.08834	-
 2017	04	TP-GAN	Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis	https://arxiv.org/abs/1704.04086	-
 2017	04	VariGAN	Multi-View Image Generation from a Single-View	https://arxiv.org/abs/1704.04886	-
+2017	04	VAW-GAN	Voice Conversion from Unaligned Corpora using Variational Autoencoding Wasserstein Generative Adversarial Networks	https://arxiv.org/abs/1704.00849	-
 2017	04	WGAN-GP	Improved Training of Wasserstein GANs	https://arxiv.org/abs/1704.00028	https://github.com/igul222/improved_wgan_training
 2017	05	Bayesian GAN	Bayesian GAN	https://arxiv.org/abs/1705.09558	-
 2017	05	CaloGAN	CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks	https://arxiv.org/abs/1705.02355	https://github.com/hep-lbdl/CaloGAN
@@ -131,10 +132,17 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	06	Dualing GAN	Dualing GANs	https://arxiv.org/abs/1706.06216	-
 2017	06	Fila-GAN	Synthesizing Filamentary Structured Images with GANs	https://arxiv.org/abs/1706.02185	-
 2017	06	GANCS	Deep Generative Adversarial Networks for Compressed Sensing Automates MRI	https://arxiv.org/abs/1706.00051	-
+2017	06	GMM-GAN	Towards Understanding the Dynamics of Generative Adversarial Networks	https://arxiv.org/abs/1706.09884	-
 2017	06	IWGAN	On Unifying Deep Generative Models	https://arxiv.org/abs/1706.00550	-
+2017	06	PAN	Perceptual Adversarial Networks for Image-to-Image Transformation	https://arxiv.org/abs/1706.09138	-
 2017	06	Perceptual GAN	Perceptual Generative Adversarial Networks for Small Object Detection	https://arxiv.org/abs/1706.05274	-
 2017	06	PixelGAN	PixelGAN Autoencoders	https://arxiv.org/abs/1706.00531	-
 2017	06	RCGAN	Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs	https://arxiv.org/abs/1706.02633	-
 2017	06	RNN-WGAN	Language Generation with Recurrent Generative Adversarial Networks without Pre-training	https://arxiv.org/abs/1706.01399	https://github.com/liuyuemaicha/Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow
 2017	06	SegAN	SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation	https://arxiv.org/abs/1706.01805	-
 2017	06	TextureGAN	TextureGAN: Controlling Deep Image Synthesis with Texture Patches	https://arxiv.org/abs/1706.02823	-
+2017	07	AlignGAN	AlignGAN: Learning to Align Cross-Domain Images with Conditional Generative Adversarial Networks	https://arxiv.org/abs/1707.01400	-
+2017	07	ARDA	Adversarial Representation Learning for Domain Adaptation	https://arxiv.org/abs/1707.01217	-
+2017	07	DAN	Distributional Adversarial Networks	https://arxiv.org/abs/1706.09549	-
+2017	07	SSGAN	SSGAN: Secure Steganography Based on Generative Adversarial Networks	https://arxiv.org/abs/1707.01400	-
+2017	07	SteinGAN	Learning Deep Energy Models: Contrastive Divergence vs. Amortized MLE	https://arxiv.org/abs/1707.00797	-
