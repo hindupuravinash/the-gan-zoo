@@ -148,6 +148,6 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	07	l-GAN	Representation Learning and Adversarial Generation of 3D Point Clouds	https://arxiv.org/abs/1707.02392	-
 2017	07	MoCoGAN	MoCoGAN: Decomposing Motion and Content for Video Generation	https://arxiv.org/abs/1707.04993	https://github.com/sergeytulyakov/mocogan
 2017	07	ResGAN	Generative Adversarial Network based on Resnet for Conditional Image Restoration	https://arxiv.org/abs/1707.04881	-
-2017	07	SSGAN	SSGAN: Secure Steganography Based on Generative Adversarial Networks	https://arxiv.org/abs/1707.01400	-
+2017	07	SSGAN	SSGAN: Secure Steganography Based on Generative Adversarial Networks	https://arxiv.org/abs/1707.01613	-
 2017	07	ss-InfoGAN	Guiding InfoGAN with Semi-Supervision	https://arxiv.org/abs/1707.04487	-
 2017	07	SteinGAN	Learning Deep Energy Models: Contrastive Divergence vs. Amortized MLE	https://arxiv.org/abs/1707.00797	-
