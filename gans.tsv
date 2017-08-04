@@ -68,7 +68,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	02	WaterGAN	WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images	https://arxiv.org/abs/1702.07392v1	-
 2017	02	acGAN	Face Aging With Conditional Generative Adversarial Networks	https://arxiv.org/abs/1702.01983	-
 2017	03	AEGAN	Learning Inverse Mapping by Autoencoder based Generative Adversarial Nets	https://arxiv.org/abs/1703.10094	-
-2017	03	AM-GAN	Generative Adversarial Nets with Labeled Data by Activation Maximization	https://arxiv.org/abs/1703.02000	-
+2017	03	AM-GAN	Activation Maximization Generative Adversarial Nets	https://arxiv.org/abs/1703.02000	-
 2017	03	AnoGAN	Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery	https://arxiv.org/abs/1703.05921v1	-
 2017	03	BEGAN	BEGAN: Boundary Equilibrium Generative Adversarial Networks	https://arxiv.org/abs/1703.10717	-
 2017	03	CS-GAN	Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets	https://arxiv.org/abs/1703.04887	-
@@ -102,6 +102,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	05	Conditional cycleGAN	Conditional CycleGAN for Attribute Guided Face Image Generation	https://arxiv.org/abs/1705.09966	-
 2017	05	Cramèr GAN 	The Cramer Distance as a Solution to Biased Wasserstein Gradients	https://arxiv.org/abs/1705.10743	-
 2017	05	DRAGAN	How to Train Your DRAGAN	https://arxiv.org/abs/1705.07215	https://github.com/kodalinaveen3/DRAGAN
+2017	05	ED//GAN	Stabilizing Training of Generative Adversarial Networks through Regularization	https://arxiv.org/abs/1705.09367	-
 2017	05	EGAN	Enhanced Experience Replay Generation for Efficient Reinforcement Learning	https://arxiv.org/abs/1705.08245	-
 2017	05	Fisher GAN	Fisher GAN	https://arxiv.org/abs/1705.09675	-
 2017	05	Flow-GAN	Flow-GAN: Bridging implicit and prescribed learning in generative models	https://arxiv.org/abs/1705.08868	-
@@ -141,13 +142,22 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	06	RNN-WGAN	Language Generation with Recurrent Generative Adversarial Networks without Pre-training	https://arxiv.org/abs/1706.01399	https://github.com/liuyuemaicha/Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow
 2017	06	SegAN	SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation	https://arxiv.org/abs/1706.01805	-
 2017	06	TextureGAN	TextureGAN: Controlling Deep Image Synthesis with Texture Patches	https://arxiv.org/abs/1706.02823	-
+2017	07	3D-IWGAN	Improved Adversarial Systems for 3D Object Generation and Reconstruction	https://arxiv.org/abs/1707.09557	-
 2017	07	AE-GAN	AE-GAN: adversarial eliminating with GAN	https://arxiv.org/abs/1707.05474	-
 2017	07	AlignGAN	AlignGAN: Learning to Align Cross-Domain Images with Conditional Generative Adversarial Networks	https://arxiv.org/abs/1707.01400	-
 2017	07	ARDA	Adversarial Representation Learning for Domain Adaptation	https://arxiv.org/abs/1707.01217	-
 2017	07	DAN	Distributional Adversarial Networks	https://arxiv.org/abs/1706.09549	-
 2017	07	l-GAN	Representation Learning and Adversarial Generation of 3D Point Clouds	https://arxiv.org/abs/1707.02392	-
+2017	07	LD-GAN	Linear Discriminant Generative Adversarial Networks	https://arxiv.org/abs/1707.07831	-
+2017	07	LeGAN	Likelihood Estimation for Generative Adversarial Networks	https://arxiv.org/abs/1707.07530	-
+2017	07	MMGAN	MMGAN: Manifold Matching Generative Adversarial Network for Generating Images	https://arxiv.org/abs/1707.08273	-
 2017	07	MoCoGAN	MoCoGAN: Decomposing Motion and Content for Video Generation	https://arxiv.org/abs/1707.04993	https://github.com/sergeytulyakov/mocogan
 2017	07	ResGAN	Generative Adversarial Network based on Resnet for Conditional Image Restoration	https://arxiv.org/abs/1707.04881	-
 2017	07	SSGAN	SSGAN: Secure Steganography Based on Generative Adversarial Networks	https://arxiv.org/abs/1707.01613	-
 2017	07	ss-InfoGAN	Guiding InfoGAN with Semi-Supervision	https://arxiv.org/abs/1707.04487	-
 2017	07	SteinGAN	Learning Deep Energy Models: Contrastive Divergence vs. Amortized MLE	https://arxiv.org/abs/1707.00797	-
+2017	07	VRAL	Variance Regularizing Adversarial Learning	https://arxiv.org/abs/1707.00309	-
+2017	08	ABC-GAN	ABC-GAN: Adaptive Blur and Control for improved training stability of Generative Adversarial Networks	https://drive.google.com/file/d/0B3wEP_lEl0laVTdGcHE2VnRiMlE/view	https://github.com/IgorSusmelj/ABC-GAN
+2017	08	constrast-GAN	Generative Semantic Manipulation with Contrasting GAN	https://arxiv.org/abs/1708.00315	-
+2017	08	CGAN	Controllable Generative Adversarial Network	https://arxiv.org/abs/1708.00598	-
+2017	08	DM-GAN	Dual Motion GAN for Future-Flow Embedded Video Prediction	https://arxiv.org/abs/1708.00284	-
