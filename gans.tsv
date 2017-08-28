@@ -158,7 +158,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	07	SteinGAN	Learning Deep Energy Models: Contrastive Divergence vs. Amortized MLE	https://arxiv.org/abs/1707.00797	-
 2017	07	VRAL	Variance Regularizing Adversarial Learning	https://arxiv.org/abs/1707.00309	-
 2017	08	ABC-GAN	ABC-GAN: Adaptive Blur and Control for improved training stability of Generative Adversarial Networks	https://drive.google.com/file/d/0B3wEP_lEl0laVTdGcHE2VnRiMlE/view	https://github.com/IgorSusmelj/ABC-GAN
-2017	08	BGAN	Binary Generative Adversarial Networks for Image Retrieval	https://github.com/htconquer/BGAN	https://github.com/htconquer/BGAN
+2017	08	BGAN	Binary Generative Adversarial Networks for Image Retrieval	https://arxiv.org/abs/1708.04150	https://github.com/htconquer/BGAN
 2017	08	constrast-GAN	Generative Semantic Manipulation with Contrasting GAN	https://arxiv.org/abs/1708.00315	-
 2017	08	CGAN	Controllable Generative Adversarial Network	https://arxiv.org/abs/1708.00598	-
 2017	08	DM-GAN	Dual Motion GAN for Future-Flow Embedded Video Prediction	https://arxiv.org/abs/1708.00284	-
