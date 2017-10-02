@@ -175,6 +175,15 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	08	VIGAN	VIGAN: Missing View Imputation with Generative Adversarial Networks	https://arxiv.org/abs/1708.06724	-
 2017	09	ARIGAN	ARIGAN: Synthetic Arabidopsis Plants using Generative Adversarial Network	https://arxiv.org/abs/1709.00938	-
 2017	09	CausalGAN	CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training	https://arxiv.org/abs/1709.02023	-
+2017	09	D2GAN	Dual Discriminator Generative Adversarial Nets	http://arxiv.org/abs/1709.03831	-
+2017	09	ExprGAN	ExprGAN: Facial Expression Editing with Controllable Expression Intensity	https://arxiv.org/abs/1709.03842	-
+2017	09	GAMN	Generative Adversarial Mapping Networks	https://arxiv.org/abs/1709.09820	-
 2017	09	LDAN	Label Denoising Adversarial Network (LDAN) for Inverse Lighting of Face Images	https://arxiv.org/abs/1709.01993	-
+2017	09	LeakGAN	Long Text Generation via Adversarial Training with Leaked Information	https://arxiv.org/abs/1709.08624	-
+2017	09	MD-GAN	Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks	https://arxiv.org/abs/1709.07592	-
+2017	09	MuseGAN	MuseGAN: Symbolic-domain Music Generation and Accompaniment with Multi-track Sequential Generative Adversarial Networks	https://arxiv.org/abs/1709.06298	-
+2017	09	OptionGAN	OptionGAN: Learning Joint Reward-Policy Options using Generative Adversarial Inverse Reinforcement Learning	https://arxiv.org/abs/1709.06683	-
 2017	09	PassGAN	PassGAN: A Deep Learning Approach for Password Guessing	https://arxiv.org/abs/1709.00440	-
 2017	09	RefineGAN	Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks	https://arxiv.org/abs/1709.00753	-
+2017	09	Splitting GAN	Class-Splitting Generative Adversarial Networks	https://arxiv.org/abs/1709.07359	-
+2017	09	Δ-GAN	Triangle Generative Adversarial Networks	https://arxiv.org/abs/1709.06548	-
