@@ -200,4 +200,5 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * WS-GAN - [Weakly Supervised Generative Adversarial Networks for 3D Reconstruction ](https://arxiv.org/abs/1705.10904) 
 * α-GAN - [Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/abs/1706.04987) ([github](https://github.com/victor-shepardson/alpha-GAN))
 * Δ-GAN - [Triangle Generative Adversarial Networks](https://arxiv.org/abs/1709.06548) 
+* WGAN-GP - [Applying a Lasagne version of WGAN-GP on MRI images](https://github.com/laurahanu/Improved-Wasserstein-GAN-application-on-MRI-images)
 
