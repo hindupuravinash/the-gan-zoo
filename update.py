@@ -33,10 +33,11 @@ def update_figure(gans):
     """ Update the figure cumulative_gans.jpg """
     data = np.array([int(gan['Year']) + int(gan['Month']) / 12
                      for gan in gans])
+    x_range = int(np.ceil(np.max(data) - np.min(data)) * 12) + 1
     y_range = int(np.ceil(data.size / 10)) * 10 + 1
 
     with plt.style.context("seaborn"):
-        plt.hist(data, 100, cumulative="True")
+        plt.hist(data, x_range, cumulative="True")
         plt.xticks(range(2014, 2018))
         plt.yticks(np.arange(0, y_range, 10))
         plt.title("Cumulative number of named GAN papers by month")
