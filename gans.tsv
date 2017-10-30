@@ -140,7 +140,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	06	Perceptual GAN	Perceptual Generative Adversarial Networks for Small Object Detection	https://arxiv.org/abs/1706.05274	-
 2017	06	PixelGAN	PixelGAN Autoencoders	https://arxiv.org/abs/1706.00531	-
 2017	06	RCGAN	Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs	https://arxiv.org/abs/1706.02633	-
-2017	06	RNN-WGAN	Language Generation with Recurrent Generative Adversarial Networks without Pre-training	https://arxiv.org/abs/1706.01399	https://github.com/liuyuemaicha/Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow
+2017	06	RNN-WGAN	Language Generation with Recurrent Generative Adversarial Networks without Pre-training	https://arxiv.org/abs/1706.01399	https://github.com/amirbar/rnn.wgan
 2017	06	SegAN	SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation	https://arxiv.org/abs/1706.01805	-
 2017	06	TextureGAN	TextureGAN: Controlling Deep Image Synthesis with Texture Patches	https://arxiv.org/abs/1706.02823	-
 2017	07	3D-IWGAN	Improved Adversarial Systems for 3D Object Generation and Reconstruction	https://arxiv.org/abs/1707.09557	https://github.com/EdwardSmith1884/3D-IWGAN
@@ -187,3 +187,6 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	09	RefineGAN	Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks	https://arxiv.org/abs/1709.00753	-
 2017	09	Splitting GAN	Class-Splitting Generative Adversarial Networks	https://arxiv.org/abs/1709.07359	-
 2017	09	Δ-GAN	Triangle Generative Adversarial Networks	https://arxiv.org/abs/1709.06548	-
+2017	10	CM-GAN	CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning	https://arxiv.org/abs/1710.05106	-
+2017	10	GAP	Context-Aware Generative Adversarial Privacy	https://arxiv.org/abs/1710.09549	-
+2017	10	GP-GAN	GP-GAN: Gender Preserving GAN for Synthesizing Faces from Landmarks	https://arxiv.org/abs/1710.00962	-
