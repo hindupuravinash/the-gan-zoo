@@ -188,5 +188,14 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	09	Splitting GAN	Class-Splitting Generative Adversarial Networks	https://arxiv.org/abs/1709.07359	-
 2017	09	Δ-GAN	Triangle Generative Adversarial Networks	https://arxiv.org/abs/1709.06548	-
 2017	10	CM-GAN	CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning	https://arxiv.org/abs/1710.05106	-
+2017	10	GAN-ATV	A Novel Approach to Artistic Textual Visualization via GAN	https://arxiv.org/abs/1710.10553	-
 2017	10	GAP	Context-Aware Generative Adversarial Privacy	https://arxiv.org/abs/1710.09549	-
 2017	10	GP-GAN	GP-GAN: Gender Preserving GAN for Synthesizing Faces from Landmarks	https://arxiv.org/abs/1710.00962	-
+2017	10	PS²-GAN	High-Quality Facial Photo-Sketch Synthesis Using Multi-Adversarial Networks	https://arxiv.org/abs/1710.10182	-
+2017	10	SVSGAN	SVSGAN: Singing Voice Separation via Generative Adversarial Network	https://arxiv.org/abs/1710.11428	-
+2017	10	TGAN	Tensorizing Generative Adversarial Nets	https://arxiv.org/abs/1710.10772	-
+2017	11	GANDI	Guiding the search in continuous state-action spaces by learning an action sampling distribution from off-target samples	https://arxiv.org/abs/1711.01391	-
+2017	11	KGAN	KGAN: How to Break The Minimax Game in GAN	https://arxiv.org/abs/1711.01744	-
+2017	11	MLGAN	Metric Learning-based Generative Adversarial Network	https://arxiv.org/abs/1711.02792	-
+2017	11	TGAN	Tensor-Generative Adversarial Network with Two-dimensional Sparse Coding: Application to Real-time Indoor Localization	https://arxiv.org/abs/1711.02666	-
+2017	11	ZipNet-GAN	ZipNet-GAN: Inferring Fine-grained Mobile Traffic Patterns via a Generative Adversarial Neural Network	https://arxiv.org/abs/1711.02413	-
