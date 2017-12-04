@@ -194,21 +194,41 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	10	PS²-GAN	High-Quality Facial Photo-Sketch Synthesis Using Multi-Adversarial Networks	https://arxiv.org/abs/1710.10182	-
 2017	10	SVSGAN	SVSGAN: Singing Voice Separation via Generative Adversarial Network	https://arxiv.org/abs/1710.11428	-
 2017	10	TGAN	Tensorizing Generative Adversarial Nets	https://arxiv.org/abs/1710.10772	-
+2017	11	3D-ED-GAN	Shape Inpainting using 3D Generative Adversarial Network and Recurrent Convolutional Networks	https://arxiv.org/abs/1711.06375	-
+2017	11	ABC-GAN	GANs for LIFE: Generative Adversarial Networks for Likelihood Free Inference	https://arxiv.org/abs/1711.11139	-
 2017	11	ACtuAL	ACtuAL: Actor-Critic Under Adversarial Learning	https://arxiv.org/abs/1711.04755	-
+2017	11	AttGAN	Arbitrary Facial Attribute Editing: Only Change What You Want	https://arxiv.org/abs/1711.10678	-
+2017	11	AttnGAN	AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks	https://arxiv.org/abs/1711.10485	-
+2017	11	BCGAN	Bidirectional Conditional Generative Adversarial networks	https://arxiv.org/abs/1711.07461	-
+2017	11	CatGAN	CatGAN: Coupled Adversarial Transfer for Domain Generation	https://arxiv.org/abs/1711.08904	-
+2017	11	CoAtt-GAN	Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning	https://arxiv.org/abs/1711.07613	-
 2017	11	ConceptGAN	Learning Compositional Visual Concepts with Mutual Consistency	https://arxiv.org/abs/1711.06148	-
 2017	11	Cover-GAN	Generative Steganography with Kerckhoffs' Principle based on Generative Adversarial Networks	https://arxiv.org/abs/1711.04916	-
 2017	11	DAGAN	Data Augmentation Generative Adversarial Networks	https://arxiv.org/abs/1711.04340	-
+2017	11	DeblurGAN	DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks	https://arxiv.org/abs/1711.07064	https://github.com/KupynOrest/DeblurGAN
 2017	11	DNA-GAN	DNA-GAN: Learning Disentangled Representations from Multi-Attribute Images	https://arxiv.org/abs/1711.05415	-
+2017	11	DRPAN	Discriminative Region Proposal Adversarial Networks for High-Quality Image-to-Image Translation	https://arxiv.org/abs/1711.09554	-
 2017	11	FIGAN	Frame Interpolation with Multi-Scale Deep Loss Functions and Generative Adversarial Networks	https://arxiv.org/abs/1711.06045	-
+2017	11	FTGAN	Hierarchical Video Generation from Orthogonal Information: Optical Flow and Texture	https://arxiv.org/abs/1711.09618	-
 2017	11	FSEGAN	Exploring Speech Enhancement with Generative Adversarial Networks for Robust Speech Recognition	https://arxiv.org/abs/1711.05747	-
 2017	11	GANDI	Guiding the search in continuous state-action spaces by learning an action sampling distribution from off-target samples	https://arxiv.org/abs/1711.01391	-
+2017	11	GPU	A generative adversarial framework for positive-unlabeled classification	https://arxiv.org/abs/1711.08054	-
+2017	11	HAN	Chinese Typeface Transformation with Hierarchical Adversarial Network	https://arxiv.org/abs/1711.06448	-
+2017	11	HP-GAN	HP-GAN: Probabilistic 3D human motion prediction via GAN	https://arxiv.org/abs/1711.09561	-
+2017	11	HR-DCGAN	High-Resolution Deep Convolutional Generative Adversarial Networks	https://arxiv.org/abs/1711.06491	-
 2017	11	KBGAN	KBGAN: Adversarial Learning for Knowledge Graph Embeddings	https://arxiv.org/abs/1711.04071	-
 2017	11	KGAN	KGAN: How to Break The Minimax Game in GAN	https://arxiv.org/abs/1711.01744	-
+2017	11	IVE-GAN	IVE-GAN: Invariant Encoding Generative Adversarial Networks	https://arxiv.org/abs/1711.08646	-
 2017	11	IFcVAEGAN	Conditional Autoencoders with Adversarial Information Factorization	https://arxiv.org/abs/1711.05175	-
+2017	11	In2I	In2I : Unsupervised Multi-Image-to-Image Translation Using Generative Adversarial Networks	https://arxiv.org/abs/1711.09334	-
 2017	11	Iterative-GAN	Two Birds with One Stone: Iteratively Learn Facial Attributes with GANs	https://arxiv.org/abs/1711.06078	https://github.com/punkcure/Iterative-GAN
+2017	11	iVGAN	Towards an Understanding of Our World by GANing Videos in the Wild	https://arxiv.org/abs/1711.11453	https://github.com/bernhard2202/improved-video-gan
 2017	11	LGAN	Global versus Localized Generative Adversarial Nets	https://arxiv.org/abs/1711.06020	-
 2017	11	MLGAN	Metric Learning-based Generative Adversarial Network	https://arxiv.org/abs/1711.02792	-
+2017	11	ORGAN	3D Reconstruction of Incomplete Archaeological Objects Using a Generative Adversary Network	https://arxiv.org/abs/1711.06363	-
+2017	11	Pip-GAN	Pipeline Generative Adversarial Networks for Facial Images Generation with Multiple Attributes	https://arxiv.org/abs/1711.10742	-
 2017	11	Sobolev GAN	Sobolev GAN	https://arxiv.org/abs/1711.04894	-
+2017	11	StarGAN	StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation	https://arxiv.org/abs/1711.09020	https://github.com/yunjey/StarGAN
 2017	11	TGAN	Tensor-Generative Adversarial Network with Two-dimensional Sparse Coding: Application to Real-time Indoor Localization	https://arxiv.org/abs/1711.02666	-
 2017	11	tripletGAN	TripletGAN: Training Generative Model with Triplet Loss	https://arxiv.org/abs/1711.05084	-
 2017	11	XGAN	XGAN: Unsupervised Image-to-Image Translation for many-to-many Mappings	https://arxiv.org/abs/1711.05139	-
