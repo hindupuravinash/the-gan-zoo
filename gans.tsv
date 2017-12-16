@@ -200,6 +200,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	11	AttGAN	Arbitrary Facial Attribute Editing: Only Change What You Want	https://arxiv.org/abs/1711.10678	-
 2017	11	AttnGAN	AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks	https://arxiv.org/abs/1711.10485	-
 2017	11	BCGAN	Bidirectional Conditional Generative Adversarial networks	https://arxiv.org/abs/1711.07461	-
+2017	11	BicycleGAN	Toward Multimodal Image-to-Image Translation	https://arxiv.org/abs/1711.11586	https://github.com/junyanz/BicycleGAN
 2017	11	CatGAN	CatGAN: Coupled Adversarial Transfer for Domain Generation	https://arxiv.org/abs/1711.08904	-
 2017	11	CoAtt-GAN	Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning	https://arxiv.org/abs/1711.07613	-
 2017	11	ConceptGAN	Learning Compositional Visual Concepts with Mutual Consistency	https://arxiv.org/abs/1711.06148	-
@@ -233,3 +234,26 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	11	tripletGAN	TripletGAN: Training Generative Model with Triplet Loss	https://arxiv.org/abs/1711.05084	-
 2017	11	XGAN	XGAN: Unsupervised Image-to-Image Translation for many-to-many Mappings	https://arxiv.org/abs/1711.05139	-
 2017	11	ZipNet-GAN	ZipNet-GAN: Inferring Fine-grained Mobile Traffic Patterns via a Generative Adversarial Neural Network	https://arxiv.org/abs/1711.02413	-
+2017	12	CA-GAN	Composition-aided Sketch-realistic Portrait Generation	https://arxiv.org/abs/1712.00899	-
+2017	12	DF-GAN	Learning Disentangling and Fusing Networks for Face Completion Under Structured Occlusions	https://arxiv.org/abs/1712.04646	-
+2017	12	Dynamics Transfer GAN	Dynamics Transfer GAN: Generating Video by Transferring Arbitrary Temporal Dynamics from a Source Video to a Single Target Image	https://arxiv.org/abs/1712.03534	-
+2017	12	EnergyWGAN	Energy-relaxed Wassertein GANs (EnergyWGAN): Towards More Stable and High Resolution Image Generation	https://arxiv.org/abs/1712.01026	-
+2017	12	ExGAN	Eye In-Painting with Exemplar Generative Adversarial Networks	https://arxiv.org/abs/1712.03999	-
+2017	12	f-CLSWGAN	Feature Generating Networks for Zero-Shot Learning	https://arxiv.org/abs/1712.00981	-
+2017	12	FusionGAN	Learning to Fuse Music Genres with Generative Adversarial Dual Learning	https://arxiv.org/abs/1712.01456	-
+2017	12	GAGAN	GAGAN: Geometry-Aware Generative Adverserial Networks	https://arxiv.org/abs/1712.00684	-
+2017	12	GANG	GANGs: Generative Adversarial Network Games	https://arxiv.org/abs/1712.00679	-
+2017	12	GANosaic	GANosaic: Mosaic Creation with Generative Texture Manifolds	https://arxiv.org/abs/1712.00269	-
+2017	12	GAN-RS	Towards Qualitative Advancement of Underwater Machine Vision with Generative Adversarial Networks	https://arxiv.org/abs/1712.00736	-
+2017	12	G2-GAN	Geometry Guided Adversarial Facial Expression Synthesis	https://arxiv.org/abs/1712.03474	-
+2017	12	IdCycleGAN	Face Translation between Images and Videos using Identity-aware CycleGAN	https://arxiv.org/abs/1712.00971	-
+2017	12	manifold-WGAN	Manifold-valued Image Generation with Wasserstein Adversarial Networks	https://arxiv.org/abs/1712.01551	-
+2017	12	MC-GAN	Multi-Content GAN for Few-Shot Font Style Transfer	https://arxiv.org/abs/1712.00516	https://github.com/azadis/MC-GAN
+2017	12	MIL-GAN	Multimodal Storytelling via Generative Adversarial Imitation Learning	https://arxiv.org/abs/1712.01455	-
+2017	12	PacGAN	PacGAN: The power of two samples in generative adversarial networks	https://arxiv.org/abs/1712.04086	-
+2017	12	PN-GAN	Pose-Normalized Image Generation for Person Re-identification	https://arxiv.org/abs/1712.02225	-
+2017	12	SGAN	SGAN: An Alternative Training of Generative Adversarial Networks	https://arxiv.org/abs/1712.02330	-
+2017	12	ST-CGAN	Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal	https://arxiv.org/abs/1712.02478	-
+2017	12	TV-GAN	TV-GAN: Generative Adversarial Network Based Thermal to Visible Face Recognition	https://arxiv.org/abs/1712.02514	-
+2017	12	UGACH	Unsupervised Generative Adversarial Cross-modal Hashing	https://arxiv.org/abs/1712.00358	-
+2017	12	VGAN	Text Generation Based on Generative Adversarial Nets with Latent Variable	https://arxiv.org/abs/1712.00170	-
