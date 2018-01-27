@@ -52,6 +52,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2016	12	SGAN	Stacked Generative Adversarial Networks	https://arxiv.org/abs/1612.04357v4	https://github.com/xunhuang1995/SGAN
 2016	12	SimGAN	Learning from Simulated and Unsupervised Images through Adversarial Training	https://arxiv.org/abs/1612.07828	-
 2016	12	StackGAN	StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks	https://arxiv.org/abs/1612.03242v1	-
+2016	12	textGAN	Generating Text via Adversarial Training	https://zhegan27.github.io/Papers/textGAN_nips2016_workshop.pdf	-
 2017	01	AdaGAN	AdaGAN: Boosting Generative Models	https://arxiv.org/abs/1701.02386v1	-
 2017	01	ID-CGAN	Image De-raining Using a Conditional Generative Adversarial Network	https://arxiv.org/abs/1701.05957v3	-
 2017	01	LAGAN	Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis	https://arxiv.org/abs/1701.05927	-
@@ -92,7 +93,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	04	MAD-GAN	Multi-Agent Diverse Generative Adversarial Networks	https://arxiv.org/abs/1704.02906	-
 2017	04	MAGAN	MAGAN: Margin Adaptation for Generative Adversarial Networks	https://arxiv.org/abs/1704.03817v1	-
 2017	04	SL-GAN	Semi-Latent GAN: Learning to generate and modify facial images from attributes	https://arxiv.org/abs/1704.02166	-
-2017	04	Softmax-GAN	Softmax GAN	https://arxiv.org/abs/1704.06191	-
+2017	04	Softmax GAN	Softmax GAN	https://arxiv.org/abs/1704.06191	-
 2017	04	TAN	Outline Colorization through Tandem Adversarial Networks	https://arxiv.org/abs/1704.08834	-
 2017	04	TP-GAN	Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis	https://arxiv.org/abs/1704.04086	-
 2017	04	VariGAN	Multi-View Image Generation from a Single-View	https://arxiv.org/abs/1704.04886	-
@@ -146,6 +147,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	07	3D-IWGAN	Improved Adversarial Systems for 3D Object Generation and Reconstruction	https://arxiv.org/abs/1707.09557	https://github.com/EdwardSmith1884/3D-IWGAN
 2017	07	AE-GAN	AE-GAN: adversarial eliminating with GAN	https://arxiv.org/abs/1707.05474	-
 2017	07	AlignGAN	AlignGAN: Learning to Align Cross-Domain Images with Conditional Generative Adversarial Networks	https://arxiv.org/abs/1707.01400	-
+2017	07	APE-GAN	APE-GAN: Adversarial Perturbation Elimination with GAN	https://arxiv.org/abs/1707.05474	-
 2017	07	ARDA	Adversarial Representation Learning for Domain Adaptation	https://arxiv.org/abs/1707.01217	-
 2017	07	DAN	Distributional Adversarial Networks	https://arxiv.org/abs/1706.09549	-
 2017	07	l-GAN	Representation Learning and Adversarial Generation of 3D Point Clouds	https://arxiv.org/abs/1707.02392	-
@@ -178,6 +180,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	09	D2GAN	Dual Discriminator Generative Adversarial Nets	http://arxiv.org/abs/1709.03831	-
 2017	09	ExprGAN	ExprGAN: Facial Expression Editing with Controllable Expression Intensity	https://arxiv.org/abs/1709.03842	-
 2017	09	GAMN	Generative Adversarial Mapping Networks	https://arxiv.org/abs/1709.09820	-
+2017	09	GraspGAN	Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping	https://arxiv.org/abs/1709.07857	-
 2017	09	LDAN	Label Denoising Adversarial Network (LDAN) for Inverse Lighting of Face Images	https://arxiv.org/abs/1709.01993	-
 2017	09	LeakGAN	Long Text Generation via Adversarial Training with Leaked Information	https://arxiv.org/abs/1709.08624	-
 2017	09	MD-GAN	Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks	https://arxiv.org/abs/1709.07592	-
@@ -207,6 +210,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	11	Cover-GAN	Generative Steganography with Kerckhoffs' Principle based on Generative Adversarial Networks	https://arxiv.org/abs/1711.04916	-
 2017	11	DAGAN	Data Augmentation Generative Adversarial Networks	https://arxiv.org/abs/1711.04340	-
 2017	11	DeblurGAN	DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks	https://arxiv.org/abs/1711.07064	https://github.com/KupynOrest/DeblurGAN
+2017	11	D-GAN	Differential Generative Adversarial Networks: Synthesizing Non-linear Facial Variations with Limited Number of Training Data	https://arxiv.org/abs/1711.10267	-
 2017	11	DNA-GAN	DNA-GAN: Learning Disentangled Representations from Multi-Attribute Images	https://arxiv.org/abs/1711.05415	-
 2017	11	DRPAN	Discriminative Region Proposal Adversarial Networks for High-Quality Image-to-Image Translation	https://arxiv.org/abs/1711.09554	-
 2017	11	FIGAN	Frame Interpolation with Multi-Scale Deep Loss Functions and Generative Adversarial Networks	https://arxiv.org/abs/1711.06045	-
@@ -235,6 +239,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	11	XGAN	XGAN: Unsupervised Image-to-Image Translation for many-to-many Mappings	https://arxiv.org/abs/1711.05139	-
 2017	11	ZipNet-GAN	ZipNet-GAN: Inferring Fine-grained Mobile Traffic Patterns via a Generative Adversarial Neural Network	https://arxiv.org/abs/1711.02413	-
 2017	12	CA-GAN	Composition-aided Sketch-realistic Portrait Generation	https://arxiv.org/abs/1712.00899	-
+2017	12	ComboGAN	ComboGAN: Unrestrained Scalability for Image Domain Translation	https://arxiv.org/abs/1712.06909	https://github.com/AAnoosheh/ComboGAN
 2017	12	DF-GAN	Learning Disentangling and Fusing Networks for Face Completion Under Structured Occlusions	https://arxiv.org/abs/1712.04646	-
 2017	12	Dynamics Transfer GAN	Dynamics Transfer GAN: Generating Video by Transferring Arbitrary Temporal Dynamics from a Source Video to a Single Target Image	https://arxiv.org/abs/1712.03534	-
 2017	12	EnergyWGAN	Energy-relaxed Wassertein GANs (EnergyWGAN): Towards More Stable and High Resolution Image Generation	https://arxiv.org/abs/1712.01026	-
@@ -250,10 +255,25 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	12	manifold-WGAN	Manifold-valued Image Generation with Wasserstein Adversarial Networks	https://arxiv.org/abs/1712.01551	-
 2017	12	MC-GAN	Multi-Content GAN for Few-Shot Font Style Transfer	https://arxiv.org/abs/1712.00516	https://github.com/azadis/MC-GAN
 2017	12	MIL-GAN	Multimodal Storytelling via Generative Adversarial Imitation Learning	https://arxiv.org/abs/1712.01455	-
+2017	12	MS-GAN	Temporal Coherency based Criteria for Predicting Video Frames using Deep Multi-stage Generative Adversarial Networks	http://papers.nips.cc/paper/7014-temporal-coherency-based-criteria-for-predicting-video-frames-using-deep-multi-stage-generative-adversarial-networks	-
 2017	12	PacGAN	PacGAN: The power of two samples in generative adversarial networks	https://arxiv.org/abs/1712.04086	-
 2017	12	PN-GAN	Pose-Normalized Image Generation for Person Re-identification	https://arxiv.org/abs/1712.02225	-
+2017	12	RAN	RAN4IQA: Restorative Adversarial Nets for No-Reference Image Quality Assessment	https://arxiv.org/abs/1712.05444	
 2017	12	SGAN	SGAN: An Alternative Training of Generative Adversarial Networks	https://arxiv.org/abs/1712.02330	-
+2017	12	SRPGAN	SRPGAN: Perceptual Generative Adversarial Network for Single Image Super Resolution	https://arxiv.org/abs/1712.05927	-
 2017	12	ST-CGAN	Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal	https://arxiv.org/abs/1712.02478	-
 2017	12	TV-GAN	TV-GAN: Generative Adversarial Network Based Thermal to Visible Face Recognition	https://arxiv.org/abs/1712.02514	-
 2017	12	UGACH	Unsupervised Generative Adversarial Cross-modal Hashing	https://arxiv.org/abs/1712.00358	-
 2017	12	VGAN	Text Generation Based on Generative Adversarial Nets with Latent Variable	https://arxiv.org/abs/1712.00170	-
+2017	12	weGAN	Generative Adversarial Nets for Multiple Text Corpora	https://arxiv.org/abs/1712.09127	-
+2018	01	AdvGAN	Generating adversarial examples with adversarial networks	https://arxiv.org/abs/1801.02610	-
+2018	01	CFG-GAN	Composite Functional Gradient Learning of Generative Adversarial Models	https://arxiv.org/abs/1801.06309	-
+2018	01	CipherGAN	Unsupervised Cipher Cracking Using Discrete GANs	https://arxiv.org/abs/1801.04883	-
+2018	01	Cross-GAN	Crossing Generative Adversarial Networks for Cross-View Person Re-identification	https://arxiv.org/abs/1801.01760	-
+2018	01	dp-GAN	Differentially Private Releasing via Deep Generative Model	https://arxiv.org/abs/1801.01594	-
+2018	01	ecGAN	eCommerceGAN : A Generative Adversarial Network for E-commerce	https://arxiv.org/abs/1801.03244	-
+2018	01	FusedGAN	Semi-supervised FusedGAN for Conditional Image Generation	https://arxiv.org/abs/1801.05551	-
+2018	01	LAC-GAN	Grounded Language Understanding for Manipulation Instructions Using GAN-Based Classification	https://arxiv.org/abs/1801.05096	-
+2018	01	SG-GAN	Semantic-aware Grad-GAN for Virtual-to-Real Urban Scene Adaption	https://arxiv.org/abs/1801.01726	https://github.com/Peilun-Li/SG-GAN
+2018	01	SketchyGAN	SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis	https://arxiv.org/abs/1801.02753	-
+2018	01	UGAN	Enhancing Underwater Imagery using Generative Adversarial Networks	https://arxiv.org/abs/1801.04011	-
