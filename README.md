@@ -290,4 +290,5 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * ZipNet-GAN - [ZipNet-GAN: Inferring Fine-grained Mobile Traffic Patterns via a Generative Adversarial Neural Network](https://arxiv.org/abs/1711.02413) 
 * α-GAN - [Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/abs/1706.04987) ([github](https://github.com/victor-shepardson/alpha-GAN))
 * Δ-GAN - [Triangle Generative Adversarial Networks](https://arxiv.org/abs/1709.06548) 
+* WGAN-GP - [Applying a Lasagne version of WGAN-GP on MRI images](https://github.com/laurahanu/Improved-Wasserstein-GAN-application-on-MRI-images)
 
