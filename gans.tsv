@@ -277,3 +277,19 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2018	01	SG-GAN	Semantic-aware Grad-GAN for Virtual-to-Real Urban Scene Adaption	https://arxiv.org/abs/1801.01726	https://github.com/Peilun-Li/SG-GAN
 2018	01	SketchyGAN	SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis	https://arxiv.org/abs/1801.02753	-
 2018	01	UGAN	Enhancing Underwater Imagery using Generative Adversarial Networks	https://arxiv.org/abs/1801.04011	-
+2018	01	MaskGAN	MaskGAN: Better Text Generation via Filling in the ______ 	https://arxiv.org/abs/1801.07736 	-
+2018	01	GLCA-GAN	Global and Local Consistent Age Generative Adversarial Networks 	https://arxiv.org/abs/1801.08390	-
+2018	01	GeoGAN	Generating Instance Segmentation Annotation by Geometry-guided GAN 	https://arxiv.org/abs/1801.08839 	-
+2018	02	C-GAN 	Face Aging with Contextual Generative Adversarial Nets 	https://arxiv.org/abs/1802.00237 	-
+2018	02	DP-GAN	DP-GAN: Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text 	https://arxiv.org/abs/1802.01345 	-
+2018	02	GC-GAN	Geometry-Contrastive Generative Adversarial Network for Facial Expression Synthesis	https://arxiv.org/abs/1802.01822 	-
+2018	02	SCH-GAN	SCH-GAN: Semi-supervised Cross-modal Hashing by Generative Adversarial Network 	https://arxiv.org/abs/1802.02488 	-
+2018	02	WaveGAN	Synthesizing Audio with Generative Adversarial Networks 	https://arxiv.org/abs/1802.04208	-
+2018	02	First Order GAN 	First Order Generative Adversarial Networks 	https://arxiv.org/abs/1802.04591	-
+2018	02	CapsuleGAN	CapsuleGAN: Generative Adversarial Capsule Network 	http://arxiv.org/abs/1802.06167	-
+2018	02	RadialGAN	RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks 	http://arxiv.org/abs/1802.06403	-
+2018	02	DA-GAN 	DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks (with Supplementary Materials)	http://arxiv.org/abs/1802.06454	-
+2018	02	DPGAN 	Differentially Private Generative Adversarial Network http://arxiv.org/abs/1802.06739	-
+2018	02	VoiceGAN	Voice Impersonation using Generative Adversarial Networks 	http://arxiv.org/abs/1802.06840	-
+2018	02	LB-GAN	Load Balanced GANs for Multi-view Face Image Synthesis	http://arxiv.org/abs/1802.07447	-
+2018	02	Defense-GAN	Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models 	https://openreview.net/forum?id=BkJ3ibb0-&noteId=SJwPXJaHG 	-
