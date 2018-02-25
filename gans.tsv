@@ -10,7 +10,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2016	04	MGAN	Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks	https://arxiv.org/abs/1604.04382	https://github.com/chuanli11/MGANs
 2016	05	BiGAN	Adversarial Feature Learning	https://arxiv.org/abs/1605.09782v7	-
 2016	05	GAN-CLS	Generative Adversarial Text to Image Synthesis	https://arxiv.org/abs/1605.05396	https://github.com/reedscot/icml2016
-2016	06	ALI	Adversarially Learned Inference	https://arxiv.org/abs/1606.00704	-
+2016	06	ALI	Adversarially Learned Inference	https://arxiv.org/abs/1606.00704	https://github.com/IshmaelBelghazi/ALI
 2016	06	CoGAN	Coupled Generative Adversarial Networks	https://arxiv.org/abs/1606.07536v2	-
 2016	06	Improved GAN	Improved Techniques for Training GANs	https://arxiv.org/abs/1606.03498	https://github.com/openai/improved-gan
 2016	06	InfoGAN	InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets	https://arxiv.org/abs/1606.03657v1	https://github.com/openai/InfoGAN
@@ -60,6 +60,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	01	SalGAN	SalGAN: Visual Saliency Prediction with Generative Adversarial Networks	https://arxiv.org/abs/1701.01081	https://github.com/imatge-upc/saliency-salgan-2017
 2017	01	ViGAN	Image Generation and Editing with Variational Info Generative Adversarial Networks	https://arxiv.org/abs/1701.04568v1	-
 2017	01	WGAN	Wasserstein GAN	https://arxiv.org/abs/1701.07875v2	https://github.com/martinarjovsky/WassersteinGAN
+2017	01	Unim2im	Unsupervised Image-to-Image Translation with Generative Adversarial Networks 	https://arxiv.org/abs/1701.02676	http://github.com/zsdonghao/Unsup-Im2Im
 2017	02	ArtGAN	ArtGAN: Artwork Synthesis with Conditional Categorial GANs	https://arxiv.org/abs/1702.03410	-
 2017	02	BS-GAN	Boundary-Seeking Generative Adversarial Networks	https://arxiv.org/abs/1702.08431v1	-
 2017	02	Bayesian GAN	Deep and Hierarchical Implicit Models	https://arxiv.org/abs/1702.08896	https://github.com/andrewgordonwilson/bayesgan/
@@ -160,6 +161,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	07	ss-InfoGAN	Guiding InfoGAN with Semi-Supervision	https://arxiv.org/abs/1707.04487	-
 2017	07	SteinGAN	Learning Deep Energy Models: Contrastive Divergence vs. Amortized MLE	https://arxiv.org/abs/1707.00797	-
 2017	07	VRAL	Variance Regularizing Adversarial Learning	https://arxiv.org/abs/1707.00309	-
+2017	07	SisGAN	Semantic Image Synthesis via Adversarial Learning	https://arxiv.org/abs/1707.06873	-
 2017	08	3D-RecGAN	3D Object Reconstruction from a Single Depth View with Adversarial Learning	https://arxiv.org/abs/1708.07969	https://github.com/Yang7879/3D-RecGAN
 2017	08	ABC-GAN	ABC-GAN: Adaptive Blur and Control for improved training stability of Generative Adversarial Networks	https://drive.google.com/file/d/0B3wEP_lEl0laVTdGcHE2VnRiMlE/view	https://github.com/IgorSusmelj/ABC-GAN
 2017	08	BGAN	Binary Generative Adversarial Networks for Image Retrieval	https://arxiv.org/abs/1708.04150	https://github.com/htconquer/BGAN
@@ -190,6 +192,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	09	RefineGAN	Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks	https://arxiv.org/abs/1709.00753	-
 2017	09	Splitting GAN	Class-Splitting Generative Adversarial Networks	https://arxiv.org/abs/1709.07359	-
 2017	09	Δ-GAN	Triangle Generative Adversarial Networks	https://arxiv.org/abs/1709.06548	-
+2017	09	ExposureGAN	Exposure: A White-Box Photo Post-Processing Framework	https://arxiv.org/abs/1709.09602	https://github.com/yuanming-hu/exposure
 2017	10	CM-GAN	CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning	https://arxiv.org/abs/1710.05106	-
 2017	10	GAN-ATV	A Novel Approach to Artistic Textual Visualization via GAN	https://arxiv.org/abs/1710.10553	-
 2017	10	GAP	Context-Aware Generative Adversarial Privacy	https://arxiv.org/abs/1710.09549	-

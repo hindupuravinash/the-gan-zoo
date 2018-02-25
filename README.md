@@ -8,7 +8,7 @@ Every week, new GAN papers are coming out and it's hard to keep track of them al
 
 You can also check out the same data in a tabular format with functionality to filter by year or do a quick search by title [here](https://github.com/hindupuravinash/the-gan-zoo/blob/master/gans.tsv).
 
-Contributions are welcome. Add links through pull requests or create an issue to lemme know something I missed or to start a discussion.
+Contributions are welcome. Add links through pull requests in gans.tsv file in the same format or create an issue to lemme know something I missed or to start a discussion.
 
 Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this repo as [blogpost](https://medium.com/deep-hunt/the-gan-zoo-79597dc8c347) and follow me on [Twitter](https://www.twitter.com/hindupuravinash).
 
@@ -27,7 +27,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * AEGAN - [Learning Inverse Mapping by Autoencoder based Generative Adversarial Nets](https://arxiv.org/abs/1703.10094) 
 * AffGAN - [Amortised MAP Inference for Image Super-resolution](https://arxiv.org/abs/1610.04490) 
 * AL-CGAN - [Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts](https://arxiv.org/abs/1612.00215) 
-* ALI - [Adversarially Learned Inference](https://arxiv.org/abs/1606.00704) 
+* ALI - [Adversarially Learned Inference](https://arxiv.org/abs/1606.00704) ([github](https://github.com/IshmaelBelghazi/ALI))
 * AlignGAN - [AlignGAN: Learning to Align Cross-Domain Images with Conditional Generative Adversarial Networks](https://arxiv.org/abs/1707.01400) 
 * AM-GAN - [Activation Maximization Generative Adversarial Nets](https://arxiv.org/abs/1703.02000) 
 * AnoGAN - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/abs/1703.05921v1) 
@@ -111,7 +111,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * EGAN - [Enhanced Experience Replay Generation for Efficient Reinforcement Learning](https://arxiv.org/abs/1705.08245) 
 * EnergyWGAN - [Energy-relaxed Wassertein GANs (EnergyWGAN): Towards More Stable and High Resolution Image Generation](https://arxiv.org/abs/1712.01026) 
 * ExGAN - [Eye In-Painting with Exemplar Generative Adversarial Networks](https://arxiv.org/abs/1712.03999) 
-* ExposureGAN - [Exposure: A White-Box Photo Post-Processing Framework](https://arxiv.org/abs/1709.09602) [(github)](https://github.com/yuanming-hu/exposure)
+* ExposureGAN - [Exposure: A White-Box Photo Post-Processing Framework](https://arxiv.org/abs/1709.09602) ([github](https://github.com/yuanming-hu/exposure))
 * ExprGAN - [ExprGAN: Facial Expression Editing with Controllable Expression Intensity](https://arxiv.org/abs/1709.03842) 
 * f-CLSWGAN - [Feature Generating Networks for Zero-Shot Learning](https://arxiv.org/abs/1712.00981) 
 * f-GAN - [f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/abs/1606.00709) 
@@ -252,7 +252,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * SGAN - [Steganographic Generative Adversarial Networks](https://arxiv.org/abs/1703.05502) 
 * SGAN - [SGAN: An Alternative Training of Generative Adversarial Networks](https://arxiv.org/abs/1712.02330) 
 * SimGAN - [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/abs/1612.07828) 
-* SisGAN - [Semantic Image Synthesis via Adversarial Learning](https://arxiv.org/abs/1707.06873)
+* SisGAN - [Semantic Image Synthesis via Adversarial Learning](https://arxiv.org/abs/1707.06873) 
 * SketchGAN - [Adversarial Training For Sketch Retrieval](https://arxiv.org/abs/1607.02748) 
 * SketchyGAN - [SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis](https://arxiv.org/abs/1801.02753) 
 * SL-GAN - [Semi-Latent GAN: Learning to generate and modify facial images from attributes](https://arxiv.org/abs/1704.02166) 
@@ -286,8 +286,8 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * TV-GAN - [TV-GAN: Generative Adversarial Network Based Thermal to Visible Face Recognition](https://arxiv.org/abs/1712.02514) 
 * UGACH - [Unsupervised Generative Adversarial Cross-modal Hashing](https://arxiv.org/abs/1712.00358) 
 * UGAN - [Enhancing Underwater Imagery using Generative Adversarial Networks](https://arxiv.org/abs/1801.04011) 
+* Unim2im - [Unsupervised Image-to-Image Translation with Generative Adversarial Networks ](https://arxiv.org/abs/1701.02676) ([github](http://github.com/zsdonghao/Unsup-Im2Im))
 * Unrolled GAN - [Unrolled Generative Adversarial Networks](https://arxiv.org/abs/1611.02163) ([github](https://github.com/poolio/unrolled_gan))
-* Unim2im - [Unsupervised Image-to-Image Translation with Generative Adversarial Networks](https://arxiv.org/abs/1701.02676) ([github](http://github.com/zsdonghao/Unsup-Im2Im))
 * VAE-GAN - [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/abs/1512.09300) 
 * VariGAN - [Multi-View Image Generation from a Single-View](https://arxiv.org/abs/1704.04886) 
 * VAW-GAN - [Voice Conversion from Unaligned Corpora using Variational Autoencoding Wasserstein Generative Adversarial Networks](https://arxiv.org/abs/1704.00849) 
