@@ -111,7 +111,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * EGAN - [Enhanced Experience Replay Generation for Efficient Reinforcement Learning](https://arxiv.org/abs/1705.08245) 
 * EnergyWGAN - [Energy-relaxed Wassertein GANs (EnergyWGAN): Towards More Stable and High Resolution Image Generation](https://arxiv.org/abs/1712.01026) 
 * ExGAN - [Eye In-Painting with Exemplar Generative Adversarial Networks](https://arxiv.org/abs/1712.03999) 
-* ExposureGAN - [Exposure: A White-Box Photo Post-Processing Framework](https://arxiv.org/abs/1709.09602) 
+* ExposureGAN - [Exposure: A White-Box Photo Post-Processing Framework](https://arxiv.org/abs/1709.09602) [(github)](https://github.com/yuanming-hu/exposure)
 * ExprGAN - [ExprGAN: Facial Expression Editing with Controllable Expression Intensity](https://arxiv.org/abs/1709.03842) 
 * f-CLSWGAN - [Feature Generating Networks for Zero-Shot Learning](https://arxiv.org/abs/1712.00981) 
 * f-GAN - [f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/abs/1606.00709) 
