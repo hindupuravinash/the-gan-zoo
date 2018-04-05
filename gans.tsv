@@ -63,7 +63,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	01	Unim2im	Unsupervised Image-to-Image Translation with Generative Adversarial Networks 	https://arxiv.org/abs/1701.02676	http://github.com/zsdonghao/Unsup-Im2Im
 2017	02	ArtGAN	ArtGAN: Artwork Synthesis with Conditional Categorial GANs	https://arxiv.org/abs/1702.03410	-
 2017	02	BS-GAN	Boundary-Seeking Generative Adversarial Networks	https://arxiv.org/abs/1702.08431v1	-
-2017	02	Bayesian GAN	Deep and Hierarchical Implicit Models	https://arxiv.org/abs/1702.08896	https://github.com/andrewgordonwilson/bayesgan/
+2017	02	Bayesian GAN	Deep and Hierarchical Implicit Models	https://arxiv.org/abs/1702.08896	-
 2017	02	MalGAN	Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN	https://arxiv.org/abs/1702.05983v1	-
 2017	02	MaliGAN	Maximum-Likelihood Augmented Discrete Generative Adversarial Networks	https://arxiv.org/abs/1702.07983	-
 2017	02	McGAN	McGan: Mean and Covariance Feature Matching GAN	https://arxiv.org/abs/1702.08398v1	-
@@ -100,7 +100,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	04	VariGAN	Multi-View Image Generation from a Single-View	https://arxiv.org/abs/1704.04886	-
 2017	04	VAW-GAN	Voice Conversion from Unaligned Corpora using Variational Autoencoding Wasserstein Generative Adversarial Networks	https://arxiv.org/abs/1704.00849	-
 2017	04	WGAN-GP	Improved Training of Wasserstein GANs	https://arxiv.org/abs/1704.00028	https://github.com/igul222/improved_wgan_training
-2017	05	Bayesian GAN	Bayesian GAN	https://arxiv.org/abs/1705.09558	-
+2017	05	Bayesian GAN	Bayesian GAN	https://arxiv.org/abs/1705.09558	https://github.com/andrewgordonwilson/bayesgan/
 2017	05	CaloGAN	CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks	https://arxiv.org/abs/1705.02355	https://github.com/hep-lbdl/CaloGAN
 2017	05	Conditional cycleGAN	Conditional CycleGAN for Attribute Guided Face Image Generation	https://arxiv.org/abs/1705.09966	-
 2017	05	Cramèr GAN 	The Cramer Distance as a Solution to Biased Wasserstein Gradients	https://arxiv.org/abs/1705.10743	-
