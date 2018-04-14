@@ -253,6 +253,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * PixelGAN - [PixelGAN Autoencoders](https://arxiv.org/abs/1706.00531) 
 * PN-GAN - [Pose-Normalized Image Generation for Person Re-identification](https://arxiv.org/abs/1712.02225) 
 * Pose-GAN - [The Pose Knows: Video Forecasting by Generating Pose Futures](https://arxiv.org/abs/1705.00053) 
+* PPAN - [Privacy-Preserving Adversarial Networks](https://arxiv.org/abs/1712.07008) 
 * PPGN - [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space](https://arxiv.org/abs/1612.00005) 
 * PrGAN - [3D Shape Induction from 2D Views of Multiple Objects](https://arxiv.org/abs/1612.05872) 
 * ProGanSR - [A Fully Progressive Approach to Single-Image Super-Resolution](https://arxiv.org/abs/1804.02900) 
