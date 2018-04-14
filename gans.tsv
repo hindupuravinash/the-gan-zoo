@@ -241,6 +241,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	11	tripletGAN	TripletGAN: Training Generative Model with Triplet Loss	https://arxiv.org/abs/1711.05084	-
 2017	11	XGAN	XGAN: Unsupervised Image-to-Image Translation for many-to-many Mappings	https://arxiv.org/abs/1711.05139	-
 2017	11	ZipNet-GAN	ZipNet-GAN: Inferring Fine-grained Mobile Traffic Patterns via a Generative Adversarial Neural Network	https://arxiv.org/abs/1711.02413	-
+2017	12	ACGAN	Coverless Information Hiding Based on Generative adversarial networks	https://arxiv.org/abs/1712.06951	-
 2017	12	CA-GAN	Composition-aided Sketch-realistic Portrait Generation	https://arxiv.org/abs/1712.00899	-
 2017	12	ComboGAN	ComboGAN: Unrestrained Scalability for Image Domain Translation	https://arxiv.org/abs/1712.06909	https://github.com/AAnoosheh/ComboGAN
 2017	12	DF-GAN	Learning Disentangling and Fusing Networks for Face Completion Under Structured Occlusions	https://arxiv.org/abs/1712.04646	-
@@ -296,3 +297,44 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2018	02	VoiceGAN	Voice Impersonation using Generative Adversarial Networks 	http://arxiv.org/abs/1802.06840	-
 2018	02	LB-GAN	Load Balanced GANs for Multi-view Face Image Synthesis	http://arxiv.org/abs/1802.07447	-
 2018	02	Defense-GAN	Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models 	https://openreview.net/forum?id=BkJ3ibb0-&noteId=SJwPXJaHG 	-
+2018	02	MAGAN	MAGAN: Aligning Biological Manifolds	https://arxiv.org/abs/1803.00385	-
+2018	02	ATA-GAN	Attention-Aware Generative Adversarial Networks (ATA-GANs)	https://arxiv.org/abs/1802.09070	-
+2018	02	PGD-GAN	Solving Linear Inverse Problems Using GAN Priors: An Algorithm with Provable Guarantees	https://arxiv.org/abs/1802.08406	-
+2018	02	SWGAN	Solving Approximate Wasserstein GANs to Stationarity	https://arxiv.org/abs/1802.08249	-
+2018	02	SAR-GAN	Generating High Quality Visible Images from SAR Images Using CNNs	https://arxiv.org/abs/1802.10036	-
+2018	02	ND-GAN	Novelty Detection with GAN	https://arxiv.org/abs/1802.10560	-
+2018	03	Spike-GAN	Synthesizing realistic neural population activity patterns using Generative Adversarial Networks	https://arxiv.org/abs/1803.00338	-
+2018	03	E-GAN	Evolutionary Generative Adversarial Networks	https://arxiv.org/abs/1803.00657	-
+2018	03	NetGAN	NetGAN: Generating Graphs via Random Walks	https://arxiv.org/abs/1803.00816	-
+2018	03	memoryGAN	Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks	https://arxiv.org/abs/1803.01500	-
+2018	03	OCAN	One-Class Adversarial Nets for Fraud Detection	https://arxiv.org/abs/1803.01798	-
+2018	03	ST-GAN	ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing	https://arxiv.org/abs/1803.01837	-
+2018	03	GONet	GONet: A Semi-Supervised Deep Learning Approach For Traversability Estimation	https://arxiv.org/abs/1803.03254	-
+2018	03	OT-GAN	Improving GANs Using Optimal Transport	https://arxiv.org/abs/1803.05573	-
+2018	03	tiny-GAN	Analysis of Nonautonomous Adversarial Systems	https://arxiv.org/abs/1803.05045	-
+2018	03	Attention-GAN	Attention-GAN for Object Transfiguration in Wild Images	https://arxiv.org/abs/1803.06798	-
+2018	03	PGGAN	Patch-Based Image Inpainting with Generative Adversarial Networks	https://arxiv.org/abs/1803.07422	-
+2018	03	BranchGAN	Branched Generative Adversarial Networks for Multi-Scale Image Manifold Learning	https://arxiv.org/abs/1803.08467	-
+2018	03	Fictitious GAN	Fictitious GAN: Training GANs with Historical Models	https://arxiv.org/abs/1803.08647	-
+2018	03	GAAN	Generative Adversarial Autoencoder Networks	https://arxiv.org/abs/1803.08887	-
+2018	03	MTGAN	MTGAN: Speaker Verification through Multitasking Triplet Generative Adversarial Networks	https://arxiv.org/abs/1803.09059
+2018	03	VOS-GAN	VOS-GAN: Adversarial Learning of Visual-Temporal Dynamics for Unsupervised Dense Prediction in Videos	https://arxiv.org/abs/1803.09092	-
+2018	03	Text2Shape	Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings	-
+2018	03	BAGAN	BAGAN: Data Augmentation with Balancing GAN	https://arxiv.org/abs/1803.09655	-
+2018	03	ELEGANT	ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes	https://arxiv.org/abs/1803.10562	-
+2018	03	B-DCGAN	B-DCGAN:Evaluation of Binarized DCGAN for FPGA	https://arxiv.org/abs/1803.10930	-
+2018	03	D2IA-GAN	Tagging like Humans: Diverse and Distinct Image Annotation	https://arxiv.org/abs/1804.00113	-
+2018	03	NCE-GAN	Dihedral angle prediction using generative adversarial networks	https://arxiv.org/abs/1803.10996	-
+2018	03	DBLRGAN	Adversarial Spatio-Temporal Learning for Video Deblurring	https://arxiv.org/abs/1804.00533	-
+2018	04	D-WCGAN	I-vector Transformation Using Conditional Generative Adversarial Networks for Short Utterance Speaker Verification	https://arxiv.org/abs/1804.00290	-
+2018	04	SyncGAN	SyncGAN: Synchronize the Latent Space of Cross-modal Generative Adversarial Networks	https://arxiv.org/abs/1804.00410	-
+2018	04	CorrGAN	Correlated discrete data generation using adversarial training	https://arxiv.org/abs/1804.00925	-
+2018	04	FBGAN	Feedback GAN (FBGAN) for DNA: a Novel Feedback-Loop Architecture for Optimizing Protein Functions	https://arxiv.org/abs/1804.01694	-
+2018	04	PS-GAN	Pedestrian-Synthesis-GAN: Generating Pedestrian Data in Real Scene and Beyond	https://arxiv.org/abs/1804.02047	-
+2018	04	ProGanSR	A Fully Progressive Approach to Single-Image Super-Resolution	https://arxiv.org/abs/1804.02900	-
+2018	04	NAN	Understanding Humans in Crowded Scenes: Deep Nested Adversarial Learning and A New Benchmark for Multi-Human Parsing	https://arxiv.org/abs/1804.03287	-
+2018	04	MGGAN	MGGAN: Solving Mode Collapse using Manifold Guided Training	https://arxiv.org/abs/1804.04391	-
+2018	04	ModularGAN	Modular Generative Adversarial Networks	https://arxiv.org/abs/1804.03343	-
+2018	04	Graphical-GAN	Graphical Generative Adversarial Networks	https://arxiv.org/abs/1804.03429	-
+2018	04	MelanoGAN	MelanoGANs: High Resolution Skin Lesion Synthesis with GANs	https://arxiv.org/abs/1804.04338	-
+2018	04	sGAN 	Generative Adversarial Training for MRA Image Synthesis Using Multi-Contrast MRI	https://arxiv.org/abs/1804.04366	-
