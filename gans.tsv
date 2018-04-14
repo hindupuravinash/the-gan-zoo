@@ -88,6 +88,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	03	SGAN	Steganographic Generative Adversarial Networks	https://arxiv.org/abs/1703.05502	-
 2017	03	TAC-GAN	TAC-GAN - Text Conditioned Auxiliary Classifier Generative Adversarial Network	https://arxiv.org/abs/1703.06412v2	https://github.com/dashayushman/TAC-GAN
 2017	03	Triple-GAN	Triple Generative Adversarial Nets	https://arxiv.org/abs/1703.02291v2	-
+2017	3	UNIT	Unsupervised Image-to-image Translation Networks	https://arxiv.org/abs/1703.00848	https://github.com/mingyuliutw/UNIT
 2017	04	DualGAN	DualGAN: Unsupervised Dual Learning for Image-to-Image Translation	https://arxiv.org/abs/1704.02510v1	-
 2017	04	FF-GAN	Towards Large-Pose Face Frontalization in the Wild	https://arxiv.org/abs/1704.06244	-
 2017	04	GoGAN	Gang of GANs: Generative Adversarial Networks with Maximum Margin Ranking	https://arxiv.org/abs/1704.04865	-
@@ -197,6 +198,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	10	GAN-ATV	A Novel Approach to Artistic Textual Visualization via GAN	https://arxiv.org/abs/1710.10553	-
 2017	10	GAP	Context-Aware Generative Adversarial Privacy	https://arxiv.org/abs/1710.09549	-
 2017	10	GP-GAN	GP-GAN: Gender Preserving GAN for Synthesizing Faces from Landmarks	https://arxiv.org/abs/1710.00962	-
+2017	10	Progressive GAN	Progressive Growing of GANs for Improved Quality, Stability, and Variation	https://arxiv.org/abs/1710.10196	https://github.com/tkarras/progressive_growing_of_gans
 2017	10	PS²-GAN	High-Quality Facial Photo-Sketch Synthesis Using Multi-Adversarial Networks	https://arxiv.org/abs/1710.10182	-
 2017	10	SVSGAN	SVSGAN: Singing Voice Separation via Generative Adversarial Network	https://arxiv.org/abs/1710.11428	-
 2017	10	TGAN	Tensorizing Generative Adversarial Nets	https://arxiv.org/abs/1710.10772	-
@@ -235,6 +237,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	11	MLGAN	Metric Learning-based Generative Adversarial Network	https://arxiv.org/abs/1711.02792	-
 2017	11	ORGAN	3D Reconstruction of Incomplete Archaeological Objects Using a Generative Adversary Network	https://arxiv.org/abs/1711.06363	-
 2017	11	Pip-GAN	Pipeline Generative Adversarial Networks for Facial Images Generation with Multiple Attributes	https://arxiv.org/abs/1711.10742	-
+2017	11	pix2pixHD	High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs	https://arxiv.org/abs/1711.11585	https://github.com/NVIDIA/pix2pixHD
 2017	11	Sobolev GAN	Sobolev GAN	https://arxiv.org/abs/1711.04894	-
 2017	11	StarGAN	StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation	https://arxiv.org/abs/1711.09020	https://github.com/yunjey/StarGAN
 2017	11	TGAN	Tensor-Generative Adversarial Network with Two-dimensional Sparse Coding: Application to Real-time Indoor Localization	https://arxiv.org/abs/1711.02666	-
