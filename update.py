@@ -38,7 +38,7 @@ def update_figure(gans):
 
     with plt.style.context("seaborn"):
         plt.hist(data, x_range, cumulative="True")
-        plt.xticks(range(2014, 2018))
+        plt.xticks(range(2014, 2019))
         plt.yticks(np.arange(0, y_range, 15))
         plt.title("Cumulative number of named GAN papers by month")
         plt.xlabel("Year")
