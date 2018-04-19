@@ -101,6 +101,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	04	VariGAN	Multi-View Image Generation from a Single-View	https://arxiv.org/abs/1704.04886	-
 2017	04	VAW-GAN	Voice Conversion from Unaligned Corpora using Variational Autoencoding Wasserstein Generative Adversarial Networks	https://arxiv.org/abs/1704.00849	-
 2017	04	WGAN-GP	Improved Training of Wasserstein GANs	https://arxiv.org/abs/1704.00028	https://github.com/igul222/improved_wgan_training
+2017	04	β-GAN	Annealed Generative Adversarial Networks	https://arxiv.org/abs/1705.07505	-
 2017	05	Bayesian GAN	Bayesian GAN	https://arxiv.org/abs/1705.09558	https://github.com/andrewgordonwilson/bayesgan/
 2017	05	CaloGAN	CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks	https://arxiv.org/abs/1705.02355	https://github.com/hep-lbdl/CaloGAN
 2017	05	Conditional cycleGAN	Conditional CycleGAN for Attribute Guided Face Image Generation	https://arxiv.org/abs/1705.09966	-
@@ -270,8 +271,10 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	12	SGAN	SGAN: An Alternative Training of Generative Adversarial Networks	https://arxiv.org/abs/1712.02330	-
 2017	12	SRPGAN	SRPGAN: Perceptual Generative Adversarial Network for Single Image Super Resolution	https://arxiv.org/abs/1712.05927	-
 2017	12	ST-CGAN	Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal	https://arxiv.org/abs/1712.02478	-
+2017	12	Super-FAN	Super-FAN: Integrated facial landmark localization and super-resolution of real-world low resolution faces in arbitrary poses with GANs	https://arxiv.org/abs/1712.02765	-
 2017	12	TV-GAN	TV-GAN: Generative Adversarial Network Based Thermal to Visible Face Recognition	https://arxiv.org/abs/1712.02514	-
 2017	12	UGACH	Unsupervised Generative Adversarial Cross-modal Hashing	https://arxiv.org/abs/1712.00358	-
+2017	12	UV-GAN	UV-GAN: Adversarial Facial UV Map Completion for Pose-invariant Face Recognition	https://arxiv.org/abs/1712.04695	-
 2017	12	VGAN	Text Generation Based on Generative Adversarial Nets with Latent Variable	https://arxiv.org/abs/1712.00170	-
 2017	12	weGAN	Generative Adversarial Nets for Multiple Text Corpora	https://arxiv.org/abs/1712.09127	-
 2018	01	AdvGAN	Generating adversarial examples with adversarial networks	https://arxiv.org/abs/1801.02610	-
@@ -288,12 +291,13 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2018	01	MaskGAN	MaskGAN: Better Text Generation via Filling in the ______ 	https://arxiv.org/abs/1801.07736 	-
 2018	01	GLCA-GAN	Global and Local Consistent Age Generative Adversarial Networks 	https://arxiv.org/abs/1801.08390	-
 2018	01	GeoGAN	Generating Instance Segmentation Annotation by Geometry-guided GAN 	https://arxiv.org/abs/1801.08839 	-
+2018	01	tempoGAN	tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow	https://arxiv.org/abs/1801.09710	-
 2018	02	C-GAN 	Face Aging with Contextual Generative Adversarial Nets 	https://arxiv.org/abs/1802.00237 	-
 2018	02	DP-GAN	DP-GAN: Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text 	https://arxiv.org/abs/1802.01345 	-
 2018	02	GC-GAN	Geometry-Contrastive Generative Adversarial Network for Facial Expression Synthesis	https://arxiv.org/abs/1802.01822 	-
 2018	02	SCH-GAN	SCH-GAN: Semi-supervised Cross-modal Hashing by Generative Adversarial Network 	https://arxiv.org/abs/1802.02488 	-
 2018	02	WaveGAN	Synthesizing Audio with Generative Adversarial Networks 	https://arxiv.org/abs/1802.04208	-
-2018	02	First Order GAN 	First Order Generative Adversarial Networks 	https://arxiv.org/abs/1802.04591	-
+2018	02	First Order GAN 	First Order Generative Adversarial Networks 	https://arxiv.org/abs/1802.04591	https://github.com/zalandoresearch/first_order_gan
 2018	02	CapsuleGAN	CapsuleGAN: Generative Adversarial Capsule Network 	http://arxiv.org/abs/1802.06167	-
 2018	02	RadialGAN	RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks 	http://arxiv.org/abs/1802.06403	-
 2018	02	DA-GAN 	DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks (with Supplementary Materials)	http://arxiv.org/abs/1802.06454	-
@@ -330,8 +334,11 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2018	03	D2IA-GAN	Tagging like Humans: Diverse and Distinct Image Annotation	https://arxiv.org/abs/1804.00113	-
 2018	03	NCE-GAN	Dihedral angle prediction using generative adversarial networks	https://arxiv.org/abs/1803.10996	-
 2018	03	DBLRGAN	Adversarial Spatio-Temporal Learning for Video Deblurring	https://arxiv.org/abs/1804.00533	-
+2018	03	Social GAN	Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks	https://arxiv.org/abs/1803.10892	-
+2018	03	Sdf-GAN	Sdf-GAN: Semi-supervised Depth Fusion with Multi-scale Adversarial Networks	https://arxiv.org/abs/1803.06657	-
 2018	04	D-WCGAN	I-vector Transformation Using Conditional Generative Adversarial Networks for Short Utterance Speaker Verification	https://arxiv.org/abs/1804.00290	-
 2018	04	SyncGAN	SyncGAN: Synchronize the Latent Space of Cross-modal Generative Adversarial Networks	https://arxiv.org/abs/1804.00410	-
+2018	04	SAGA	Generative Adversarial Learning for Spectrum Sensing	https://arxiv.org/abs/1804.00709	-
 2018	04	CorrGAN	Correlated discrete data generation using adversarial training	https://arxiv.org/abs/1804.00925	-
 2018	04	FBGAN	Feedback GAN (FBGAN) for DNA: a Novel Feedback-Loop Architecture for Optimizing Protein Functions	https://arxiv.org/abs/1804.01694	-
 2018	04	PS-GAN	Pedestrian-Synthesis-GAN: Generating Pedestrian Data in Real Scene and Beyond	https://arxiv.org/abs/1804.02047	-
@@ -342,3 +349,4 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2018	04	Graphical-GAN	Graphical Generative Adversarial Networks	https://arxiv.org/abs/1804.03429	-
 2018	04	MelanoGAN	MelanoGANs: High Resolution Skin Lesion Synthesis with GANs	https://arxiv.org/abs/1804.04338	-
 2018	04	sGAN 	Generative Adversarial Training for MRA Image Synthesis Using Multi-Contrast MRI	https://arxiv.org/abs/1804.04366	-
+2018	04	AF-DCGAN	AF-DCGAN: Amplitude Feature Deep Convolutional GAN for Fingerprint Construction in Indoor Localization System	https://arxiv.org/abs/1804.05347	-
