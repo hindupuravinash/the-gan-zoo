@@ -292,7 +292,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2018	01	GLCA-GAN	Global and Local Consistent Age Generative Adversarial Networks 	https://arxiv.org/abs/1801.08390	-
 2018	01	GeoGAN	Generating Instance Segmentation Annotation by Geometry-guided GAN 	https://arxiv.org/abs/1801.08839 	-
 2018	01	tempoGAN	tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow	https://arxiv.org/abs/1801.09710	-
-2018  02  AmbientGAN AmbientGAN: Generative models from lossy measurements https://openreview.net/forum?id=Hy7fDog0b https://github.com/AshishBora/ambient-gan
+2018	02	AmbientGAN	AmbientGAN: Generative models from lossy measurements	https://openreview.net/forum?id=Hy7fDog0b	https://github.com/AshishBora/ambient-gan
 2018	02	C-GAN 	Face Aging with Contextual Generative Adversarial Nets 	https://arxiv.org/abs/1802.00237 	-
 2018	02	DP-GAN	DP-GAN: Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text 	https://arxiv.org/abs/1802.01345 	-
 2018	02	GC-GAN	Geometry-Contrastive Generative Adversarial Network for Facial Expression Synthesis	https://arxiv.org/abs/1802.01822 	-
