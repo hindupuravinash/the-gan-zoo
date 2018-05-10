@@ -51,7 +51,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2016	12	PrGAN	3D Shape Induction from 2D Views of Multiple Objects	https://arxiv.org/abs/1612.05872	-
 2016	12	SGAN	Stacked Generative Adversarial Networks	https://arxiv.org/abs/1612.04357v4	https://github.com/xunhuang1995/SGAN
 2016	12	SimGAN	Learning from Simulated and Unsupervised Images through Adversarial Training	https://arxiv.org/abs/1612.07828	-
-2016	12	StackGAN	StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks	https://arxiv.org/abs/1612.03242v1	-
+2016	12	StackGAN	StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks	https://arxiv.org/abs/1612.03242v1	https://github.com/hanzhanggit/StackGAN
 2016	12	textGAN	Generating Text via Adversarial Training	https://zhegan27.github.io/Papers/textGAN_nips2016_workshop.pdf	-
 2017	01	AdaGAN	AdaGAN: Boosting Generative Models	https://arxiv.org/abs/1701.02386v1	-
 2017	01	ID-CGAN	Image De-raining Using a Conditional Generative Adversarial Network	https://arxiv.org/abs/1701.05957v3	-
@@ -206,7 +206,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	11	3D-ED-GAN	Shape Inpainting using 3D Generative Adversarial Network and Recurrent Convolutional Networks	https://arxiv.org/abs/1711.06375	-
 2017	11	ABC-GAN	GANs for LIFE: Generative Adversarial Networks for Likelihood Free Inference	https://arxiv.org/abs/1711.11139	-
 2017	11	ACtuAL	ACtuAL: Actor-Critic Under Adversarial Learning	https://arxiv.org/abs/1711.04755	-
-2017	11	AttGAN	Arbitrary Facial Attribute Editing: Only Change What You Want	https://arxiv.org/abs/1711.10678	-
+2017	11	AttGAN	Arbitrary Facial Attribute Editing: Only Change What You Want	https://arxiv.org/abs/1711.10678	https://github.com/LynnHo/AttGAN-Tensorflow
 2017	11	AttnGAN	AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks	https://arxiv.org/abs/1711.10485	https://github.com/taoxugit/AttnGAN
 2017	11	BCGAN	Bidirectional Conditional Generative Adversarial networks	https://arxiv.org/abs/1711.07461	-
 2017	11	BicycleGAN	Toward Multimodal Image-to-Image Translation	https://arxiv.org/abs/1711.11586	https://github.com/junyanz/BicycleGAN
