@@ -243,6 +243,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	11	StarGAN	StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation	https://arxiv.org/abs/1711.09020	https://github.com/yunjey/StarGAN
 2017	11	TGAN	Tensor-Generative Adversarial Network with Two-dimensional Sparse Coding: Application to Real-time Indoor Localization	https://arxiv.org/abs/1711.02666	-
 2017	11	tripletGAN	TripletGAN: Training Generative Model with Triplet Loss	https://arxiv.org/abs/1711.05084	-
+2017	11	VA-GAN	Visual Feature Attribution using Wasserstein GANs	https://arxiv.org/abs/1711.08998	-
 2017	11	XGAN	XGAN: Unsupervised Image-to-Image Translation for many-to-many Mappings	https://arxiv.org/abs/1711.05139	-
 2017	11	ZipNet-GAN	ZipNet-GAN: Inferring Fine-grained Mobile Traffic Patterns via a Generative Adversarial Neural Network	https://arxiv.org/abs/1711.02413	-
 2017	12	ACGAN	Coverless Information Hiding Based on Generative adversarial networks	https://arxiv.org/abs/1712.06951	-
