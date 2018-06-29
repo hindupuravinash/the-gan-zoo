@@ -354,3 +354,5 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2018	04	MelanoGAN	MelanoGANs: High Resolution Skin Lesion Synthesis with GANs	https://arxiv.org/abs/1804.04338	-
 2018	04	sGAN 	Generative Adversarial Training for MRA Image Synthesis Using Multi-Contrast MRI	https://arxiv.org/abs/1804.04366	-
 2018	04	AF-DCGAN	AF-DCGAN: Amplitude Feature Deep Convolutional GAN for Fingerprint Construction in Indoor Localization System	https://arxiv.org/abs/1804.05347	-
+2018  04  Defo-Net  Defo-Net: Learning Body Deformation using Generative Adversarial Networks https://arxiv.org/abs/1804.05928  -
+2018  04  3D-PhysNet  3D-PhysNet: Learning the Intuitive Physics of Non-Rigid Object Deformations https://arxiv.org/abs/1805.00328  -
