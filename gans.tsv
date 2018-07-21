@@ -313,8 +313,8 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2018	2	SWGAN	Solving Approximate Wasserstein GANs to Stationarity	https://arxiv.org/abs/1802.08249	-
 2018	2	SAR-GAN	Generating High Quality Visible Images from SAR Images Using CNNs	https://arxiv.org/abs/1802.10036	-
 2018	2	ND-GAN	Novelty Detection with GAN	https://arxiv.org/abs/1802.10560	-
-2018	2	StainGAN: Stain Style Transfer for Digital Histological Images	https://arxiv.org/abs/1804.01601	-	-
-2018	2	Domain and Geometry Agnostic CNNs for Left Atrium Segmentation in 3D Ultrasound	https://arxiv.org/abs/1805.00357	-	-
+2018	2	StainGAN	Stain Style Transfer for Digital Histological Images	https://arxiv.org/abs/1804.01601	-
+2018	2	-	Domain and Geometry Agnostic CNNs for Left Atrium Segmentation in 3D Ultrasound	https://arxiv.org/abs/1805.00357	-
 2018	3	Spike-GAN	Synthesizing realistic neural population activity patterns using Generative Adversarial Networks	https://arxiv.org/abs/1803.00338	-
 2018	3	E-GAN	Evolutionary Generative Adversarial Networks	https://arxiv.org/abs/1803.00657	-
 2018	3	NetGAN	NetGAN: Generating Graphs via Random Walks	https://arxiv.org/abs/1803.00816	-
