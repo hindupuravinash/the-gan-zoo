@@ -166,6 +166,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2017	07	SisGAN	Semantic Image Synthesis via Adversarial Learning	https://arxiv.org/abs/1707.06873	-
 2017	08	3D-RecGAN	3D Object Reconstruction from a Single Depth View with Adversarial Learning	https://arxiv.org/abs/1708.07969	https://github.com/Yang7879/3D-RecGAN
 2017	08	ABC-GAN	ABC-GAN: Adaptive Blur and Control for improved training stability of Generative Adversarial Networks	https://drive.google.com/file/d/0B3wEP_lEl0laVTdGcHE2VnRiMlE/view	https://github.com/IgorSusmelj/ABC-GAN
+2017	08	ASDL-GAN	Automatic Steganographic Distortion Learning Using a Generative Adversarial Network	https://ieeexplore.ieee.org/document/8017430/	-
 2017	08	BGAN	Binary Generative Adversarial Networks for Image Retrieval	https://arxiv.org/abs/1708.04150	https://github.com/htconquer/BGAN
 2017	08	CDcGAN	Simultaneously Color-Depth Super-Resolution with Conditional Generative Adversarial Network	https://arxiv.org/abs/1708.09105	-
 2017	08	CGAN	Controllable Generative Adversarial Network	https://arxiv.org/abs/1708.00598	-
@@ -306,7 +307,6 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2018	02	DPGAN 	Differentially Private Generative Adversarial Network 	http://arxiv.org/abs/1802.06739	-
 2018	02	VoiceGAN	Voice Impersonation using Generative Adversarial Networks 	http://arxiv.org/abs/1802.06840	-
 2018	02	LB-GAN	Load Balanced GANs for Multi-view Face Image Synthesis	http://arxiv.org/abs/1802.07447	-
-2018	02	Defense-GAN	Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models 	https://openreview.net/forum?id=BkJ3ibb0-&noteId=SJwPXJaHG 	-
 2018	02	MAGAN	MAGAN: Aligning Biological Manifolds	https://arxiv.org/abs/1803.00385	-
 2018	02	ATA-GAN	Attention-Aware Generative Adversarial Networks (ATA-GANs)	https://arxiv.org/abs/1802.09070	-
 2018	02	PGD-GAN	Solving Linear Inverse Problems Using GAN Priors: An Algorithm with Provable Guarantees	https://arxiv.org/abs/1802.08406	-
@@ -353,5 +353,54 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2018	04	MelanoGAN	MelanoGANs: High Resolution Skin Lesion Synthesis with GANs	https://arxiv.org/abs/1804.04338	-
 2018	04	sGAN 	Generative Adversarial Training for MRA Image Synthesis Using Multi-Contrast MRI	https://arxiv.org/abs/1804.04366	-
 2018	04	AF-DCGAN	AF-DCGAN: Amplitude Feature Deep Convolutional GAN for Fingerprint Construction in Indoor Localization System	https://arxiv.org/abs/1804.05347	-
+2018	04	IterGAN	IterGANs: Iterative GANs to Learn and Control 3D Object Transformation	https://arxiv.org/abs/1804.05651	-
 2018	04	Defo-Net	Defo-Net: Learning Body Deformation using Generative Adversarial Networks	https://arxiv.org/abs/1804.05928	-
+2018	04	PM-GAN	PM-GANs: Discriminative Representation Learning for Action Recognition Using Partial-modalities	-
+2018	04	FusionGAN	Generating a Fusion Image: One's Identity and Another's Shape	https://arxiv.org/abs/1804.07455	-
+2018	04	UT-SCA-GAN	Spatial Image Steganography Based on Generative Adversarial Network	https://arxiv.org/abs/1804.07939	-
+2018	04	Sketcher-Refiner GAN	Learning Myelin Content in Multiple Sclerosis from Multimodal MRI through Adversarial Training	-
+2018	04	TGANs-C	To Create What You Tell: Generating Videos from Captions	https://arxiv.org/abs/1804.08264	-
+2018	04	DSH-GAN	Deep Semantic Hashing with Generative Adversarial Networks	https://arxiv.org/abs/1804.08275	-
+2018	04	BEAM	Boltzmann Encoded Adversarial Machines	https://arxiv.org/abs/1804.08682	-
+2018	04	M-AAE	Mask-aware Photorealistic Face Attribute Manipulation	https://arxiv.org/abs/1804.08882	-
+2018	04	EAR	Generative Model for Heterogeneous Inference	https://arxiv.org/abs/1804.09858	-
+2018	04	DVGAN	Human Motion Modeling using DVGANs	https://arxiv.org/abs/1804.10652	-
+2018	04	DTR-GAN	DTR-GAN: Dilated Temporal Relational Adversarial Network for Video Summarization	https://arxiv.org/abs/1804.11228	-
 2018	04	3D-PhysNet	3D-PhysNet: Learning the Intuitive Physics of Non-Rigid Object Deformations	https://arxiv.org/abs/1805.00328	-
+2018	04	ReConNN	Reconstruction of Simulation-Based Physical Field with Limited Samples by Reconstruction Neural Network	https://arxiv.org/abs/1805.00528	-
+2018	05	WGAN-CLS	Text to Image Synthesis Using Generative Adversarial Networks	https://arxiv.org/abs/1805.00676	-
+2018	05	cd-GAN	Conditional Image-to-Image Translation	https://arxiv.org/abs/1805.00251	-
+2018	05	POGAN	Perceptually Optimized Generative Adversarial Network for Single Image Dehazing	https://arxiv.org/abs/1805.01084	-
+2018	05	MC-GAN	MC-GAN: Multi-conditional Generative Adversarial Network for Image Synthesis	https://arxiv.org/abs/1805.01123	-
+2018	05	FC-GAN	Fast-converging Conditional Generative Adversarial Networks for Image Synthesis	https://arxiv.org/abs/1805.01972	-
+2018	05	RegCGAN	Unpaired Multi-Domain Image Generation via Regularized Conditional GANs	https://arxiv.org/abs/1805.02456	-
+2018	05	MEGAN	MEGAN: Mixture of Experts of Generative Adversarial Networks for Multimodal Image Generation	https://arxiv.org/abs/1805.02481	-
+2018	05	ReGAN	ReGAN: RE[LAX|BAR|INFORCE] based Sequence Generation using GANs	https://arxiv.org/abs/1805.02788	https://github.com/TalkToTheGAN/REGAN
+2018	05	N2RPP	N2RPP: An Adversarial Network to Rebuild Plantar Pressure for ACLD Patients	https://arxiv.org/abs/1805.02825	-
+2018	05	PSGAN	PSGAN: A Generative Adversarial Network for Remote Sensing Image Pan-Sharpening	https://arxiv.org/abs/1805.03371	-
+2018	05	BRE	Improving GAN Training via Binarized Representation Entropy (BRE) Regularization	https://arxiv.org/abs/1805.03644	https://github.com/BorealisAI/bre-gan
+2018	05	HiGAN	Exploiting Images for Video Recognition with Hierarchical Generative Adversarial Networks	https://arxiv.org/abs/1805.04384	-
+2018	05	AdvEntuRe	AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples	https://arxiv.org/abs/1805.04680	-
+2018	05	GAN Q-learning	GAN Q-learning	https://arxiv.org/abs/1805.04874	-
+2018	05	GAF	Generative Adversarial Forests for Better Conditioned Adversarial Learning	https://arxiv.org/abs/1805.05185	-
+2018	05	Defense-GAN	Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models 	https://arxiv.org/abs/1805.06605 	https://github.com/kabkabm/defensegan
+2018	05	SG-GAN	Sparsely Grouped Multi-task Generative Adversarial Networks for Facial Attribute Manipulation	https://arxiv.org/abs/1805.07509	-
+2018	05	BourGAN	BourGAN: Generative Networks with Metric Embeddings	https://arxiv.org/abs/1805.07674	-
+2018	05	FBGAN	Featurized Bidirectional GAN: Adversarial Defense via Adversarially Learned Semantic Inference	https://arxiv.org/abs/1805.07862	-
+2018	05	HAN	Bidirectional Learning for Robust Neural Networks	https://arxiv.org/abs/1805.08006	-
+2018	05	SAGAN	Self-Attention Generative Adversarial Networks	https://arxiv.org/abs/1805.08318	-
+2018	05	RoCGAN	Robust Conditional Generative Adversarial Networks	https://arxiv.org/abs/1805.08657	-
+2018	05	GAN-Word2Vec	Adversarial Training of Word2Vec for Basket Completion	https://arxiv.org/abs/1805.08720	-
+2018	05	AVID	AVID: Adversarial Visual Irregularity Detection	https://arxiv.org/abs/1805.09521	-
+2018	05	PD-WGAN	Primal-Dual Wasserstein GAN	https://arxiv.org/abs/1805.09575	-
+2018	05	Fairness GAN	Fairness GAN	https://arxiv.org/abs/1805.09910	-
+2018	05	GT-GAN	Deep Graph Translation	https://arxiv.org/abs/1805.09980	-
+2018	05	GAN-SD	Virtual-Taobao: Virtualizing Real-world Online Retail Environment for Reinforcement Learning	https://arxiv.org/abs/1805.10000	-
+2018	05	FakeGAN	Detecting Deceptive Reviews using Generative Adversarial Networks	https://arxiv.org/abs/1805.10364	-
+2018	05	DTLC-GAN	Generative Adversarial Image Synthesis with Decision Tree Latent Controller	https://arxiv.org/abs/1805.10603	-
+2018	05	cowboy	Defending Against Adversarial Attacks by Leveraging an Entire GAN	https://arxiv.org/abs/1805.10652	-
+2018	05	FairGAN	FairGAN: Fairness-aware Generative Adversarial Networks	https://arxiv.org/abs/1805.11202	-
+2018	05	hredGAN	Multi-turn Dialogue Response Generation in an Adversarial Learning framework	https://arxiv.org/abs/1805.11752	-
+2018	05	MolGAN	MolGAN: An implicit generative model for small molecular graphs	https://arxiv.org/abs/1805.11973	-
+2018	05	DialogWAE	DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder	https://arxiv.org/abs/1805.12352	-
+2018	05	CSG	Speech-Driven Expressive Talking Lips with Conditional Sequential Generative Adversarial Networks	https://arxiv.org/abs/1806.00154	-
