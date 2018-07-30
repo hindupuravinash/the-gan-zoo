@@ -404,3 +404,60 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2018	05	MolGAN	MolGAN: An implicit generative model for small molecular graphs	https://arxiv.org/abs/1805.11973	-
 2018	05	DialogWAE	DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder	https://arxiv.org/abs/1805.12352	-
 2018	05	CSG	Speech-Driven Expressive Talking Lips with Conditional Sequential Generative Adversarial Networks	https://arxiv.org/abs/1806.00154	-
+2018	05	GANAX	GANAX: A Unified MIMD-SIMD Acceleration for Generative Adversarial Networks	https://arxiv.org/abs/1806.01107	-
+2018	06	SN-DCGAN	Generative Adversarial Networks for Unsupervised Object Co-localization	https://arxiv.org/abs/1806.00236	-
+2018	06	SR-CNN-VAE-GAN	Semi-Recurrent CNN-based VAE-GAN for Sequential Data Generation	https://arxiv.org/abs/1806.00509	https://github.com/makbari7/SR-CNN-VAE-GAN
+2018	06	SeUDA	Semantic-Aware Generative Adversarial Nets for Unsupervised Domain Adaptation in Chest X-ray Segmentation	https://arxiv.org/abs/1806.00600	-
+2018	06	DMGAN	Disconnected Manifold Learning for Generative Adversarial Networks	https://arxiv.org/abs/1806.00880	-
+2018	06	SoPhie	SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints	https://arxiv.org/abs/1806.01482	-
+2018	06	StarGAN-VC	StarGAN-VC: Non-parallel many-to-many voice conversion with star generative adversarial networks 	https://arxiv.org/abs/1806.02169	-
+2018	06	GAIN 	GAIN: Missing Data Imputation using Generative Adversarial Nets	https://arxiv.org/abs/1806.02920	-
+2018	06	JointGAN	JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets	https://arxiv.org/abs/1806.02978	-
+2018	06	table-GAN	Data Synthesis based on Generative Adversarial Networks	https://arxiv.org/abs/1806.03384	-
+2018	06	IRGAN	Generative Adversarial Nets for Information Retrieval: Fundamentals and Advances	https://arxiv.org/abs/1806.03577	-
+2018	06	SN-PatchGAN	Free-Form Image Inpainting with Gated Convolution	https://arxiv.org/abs/1806.03589	-
+2018	06	tempCycleGAN	Improving Surgical Training Phantoms by Hyperrealism: Deep Unpaired Image-to-Image Translation from Real Surgeries	https://arxiv.org/abs/1806.03627	-
+2018	06	MMC-GAN	A Multimodal Classifier Generative Adversarial Network for Carry and Place Tasks from Ambiguous Language Instructions	https://arxiv.org/abs/1806.03847	-
+2018	06	CapsGAN	CapsGAN: Using Dynamic Routing for Generative Adversarial Networks	https://arxiv.org/abs/1806.03968	-
+2018	06	LCC-GAN	Adversarial Learning with Local Coordinate Coding	https://arxiv.org/abs/1806.04895	-
+2018	06	tcGAN	Cross-modal Hallucination for Few-shot Fine-grained Recognition	https://arxiv.org/abs/1806.05147	-
+2018	06	EL-GAN	EL-GAN: Embedding Loss Driven Generative Adversarial Networks for Lane Detection	https://arxiv.org/abs/1806.05525	-
+2018	06	GATS	Sample-Efficient Deep RL with Generative Adversarial Tree Search	https://arxiv.org/abs/1806.05780	-
+2018	06	MedGAN	MedGAN: Medical Image Translation using GANs	https://arxiv.org/abs/1806.06397	-
+2018	06	BWGAN	Banach Wasserstein GAN	https://arxiv.org/abs/1806.06621	-
+2018	06	BinGAN	BinGAN: Learning Compact Binary Descriptors with a Regularized GAN	https://arxiv.org/abs/1806.06778	-
+2018	06	FrankenGAN	rankenGAN: Guided Detail Synthesis for Building Mass-Models Using Style-Synchonized GANs	https://arxiv.org/abs/1806.07179	-
+2018	06	TD-GAN	Task Driven Generative Modeling for Unsupervised Domain Adaptation: Application to X-ray Image Segmentation	https://arxiv.org/abs/1806.07201	-
+2018	06	GANG	Beyond Local Nash Equilibria for Adversarial Networks	https://arxiv.org/abs/1806.07268	-
+2018	06	VAC+GAN 	Versatile Auxiliary Classifier with Generative Adversarial Network (VAC+GAN), Multi Class Scenarios	https://arxiv.org/abs/1806.07751	-
+2018	06	PP-GAN	Privacy-Protective-GAN for Face De-identification	https://arxiv.org/abs/1806.08906	-
+2018	06	JR-GAN	JR-GAN: Jacobian Regularization for Generative Adversarial Networks	https://arxiv.org/abs/1806.09235	-
+2018	06	IR2VI	IR2VI: Enhanced Night Environmental Perception by Unsupervised Thermal Image Translation	https://arxiv.org/abs/1806.09565	-
+2018	06	APD	Adversarial Distillation of Bayesian Neural Network Posteriors	https://arxiv.org/abs/1806.10317	-
+2018	06	Adaptive GAN	Customizing an Adversarial Example Generator with Class-Conditional GANs	https://arxiv.org/abs/1806.10496	-
+2018	06	CR-GAN	CR-GAN: Learning Complete Representations for Multi-view Generation	https://arxiv.org/abs/1806.11191	-
+2018	06	Modified GAN-CLS	Generate the corresponding Image from Text Description using Modified GAN-CLS Algorithm	https://arxiv.org/abs/1806.11302	-
+2018	07	RaGAN	The relativistic discriminator: a key element missing from standard GAN	https://arxiv.org/abs/1807.00734	-
+2018	07	Resembled GAN	Resembled Generative Adversarial Networks: Two Domains with Similar Attributes	https://arxiv.org/abs/1807.00947	-
+2018	07	MIXGAN	MIXGAN: Learning Concepts from Different Domains for Mixture Generation	https://arxiv.org/abs/1807.01659	-
+2018	07	FGGAN	Adversarial Learning for Fine-grained Image Search	https://arxiv.org/abs/1807.02247	-
+2018	07	AMC-GAN	Video Prediction with Appearance and Motion Conditions	https://arxiv.org/abs/1807.02635	-
+2018	07	PIONEER	Pioneer Networks: Progressively Growing Generative Autoencoder	https://arxiv.org/abs/1807.03026	-
+2018	07	LBT	Learning Implicit Generative Models by Teaching Explicit Ones	https://arxiv.org/abs/1807.03870	-
+2018	07	sAOG	Deep Structured Generative Models	https://arxiv.org/abs/1807.03877	-
+2018	07	DE-GAN	Generative Adversarial Networks with Decoder-Encoder Output Noise	https://arxiv.org/abs/1807.03923	-
+2018	07	Sem-GAN	Sem-GAN: Semantically-Consistent Image-to-Image Translation	https://arxiv.org/abs/1807.04409	-
+2018	07	CE-GAN	Deep Learning for Imbalance Data Classification using Class Expert Generative Adversarial Network	https://arxiv.org/abs/1807.04585	-
+2018	07	WGAN-L1	Subsampled Turbulence Removal Network	https://arxiv.org/abs/1807.04418	-
+2018	07	CT-GAN	CT-GAN: Conditional Transformation Generative Adversarial Network for Image Attribute Modification	https://arxiv.org/abs/1807.04812	-
+2018	07	TequilaGAN	TequilaGAN: How to easily identify GAN samples	https://arxiv.org/abs/1807.04919	-
+2018	07	GAP	Generative Adversarial Privacy	https://arxiv.org/abs/1807.05306	-
+2018	07	IntroVAE	IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis	https://arxiv.org/abs/1807.06358	-
+2018	07	GAIA	Generative adversarial interpolative autoencoding: adversarial training on latent space interpolations encourage convex latent distributions	https://arxiv.org/abs/1807.06650	-
+2018	07	SGAN	CT Image Enhancement Using Stacked Generative Adversarial Networks and Transfer Learning for Lesion Segmentation Improvement	https://arxiv.org/abs/1807.07144	-
+2018	07	Editable GAN	Editable Generative Adversarial Networks: Generating and Editing Faces Simultaneously	https://arxiv.org/abs/1807.07700	-
+2018	07	ciGAN	Conditional Infilling GANs for Data Augmentation in Mammogram Classification	https://arxiv.org/abs/1807.08093	-
+2018	07	Lipizzaner	Towards Distributed Coevolutionary GANs	https://arxiv.org/abs/1807.08194	-
+2018	07	SiGAN	SiGAN: Siamese Generative Adversarial Network for Identity-Preserving Face Hallucination	https://arxiv.org/abs/1807.08370	-
+2018	07	ISGAN	Invisible Steganography via Generative Adversarial Network	https://arxiv.org/abs/1807.08571	-
+2018	07	AlphaGAN	AlphaGAN: Generative adversarial networks for natural image matting	https://arxiv.org/abs/1807.10088	-
