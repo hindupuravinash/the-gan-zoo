@@ -399,6 +399,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * Social GAN - [Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks](https://arxiv.org/abs/1803.10892) 
 * Softmax GAN - [Softmax GAN](https://arxiv.org/abs/1704.06191) 
 * SoPhie - [SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints](https://arxiv.org/abs/1806.01482) 
+* speech-driven animation GAN - [End-to-End Speech-Driven Facial Animation with Temporal GANs](https://arxiv.org/abs/1805.09313) 
 * Spike-GAN - [Synthesizing realistic neural population activity patterns using Generative Adversarial Networks](https://arxiv.org/abs/1803.00338) 
 * Splitting GAN - [Class-Splitting Generative Adversarial Networks](https://arxiv.org/abs/1709.07359) 
 * SR-CNN-VAE-GAN - [Semi-Recurrent CNN-based VAE-GAN for Sequential Data Generation](https://arxiv.org/abs/1806.00509) ([github](https://github.com/makbari7/SR-CNN-VAE-GAN))
