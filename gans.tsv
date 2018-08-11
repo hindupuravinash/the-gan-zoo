@@ -355,7 +355,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2018	04	AF-DCGAN	AF-DCGAN: Amplitude Feature Deep Convolutional GAN for Fingerprint Construction in Indoor Localization System	https://arxiv.org/abs/1804.05347	-
 2018	04	IterGAN	IterGANs: Iterative GANs to Learn and Control 3D Object Transformation	https://arxiv.org/abs/1804.05651	-
 2018	04	Defo-Net	Defo-Net: Learning Body Deformation using Generative Adversarial Networks	https://arxiv.org/abs/1804.05928	-
-2018	04	PM-GAN	PM-GANs: Discriminative Representation Learning for Action Recognition Using Partial-modalities	-
+2018	04	PM-GAN	PM-GANs: Discriminative Representation Learning for Action Recognition Using Partial-modalities	https://arxiv.org/abs/1804.06248	-
 2018	04	FusionGAN	Generating a Fusion Image: One's Identity and Another's Shape	https://arxiv.org/abs/1804.07455	-
 2018	04	UT-SCA-GAN	Spatial Image Steganography Based on Generative Adversarial Network	https://arxiv.org/abs/1804.07939	-
 2018	04	Sketcher-Refiner GAN	Learning Myelin Content in Multiple Sclerosis from Multimodal MRI through Adversarial Training	-
@@ -405,6 +405,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2018	05	DialogWAE	DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder	https://arxiv.org/abs/1805.12352	-
 2018	05	CSG	Speech-Driven Expressive Talking Lips with Conditional Sequential Generative Adversarial Networks	https://arxiv.org/abs/1806.00154	-
 2018	05	GANAX	GANAX: A Unified MIMD-SIMD Acceleration for Generative Adversarial Networks	https://arxiv.org/abs/1806.01107	-
+2018	05	speech-driven animation GAN	End-to-End Speech-Driven Facial Animation with Temporal GANs	https://arxiv.org/abs/1805.09313	-
 2018	06	SN-DCGAN	Generative Adversarial Networks for Unsupervised Object Co-localization	https://arxiv.org/abs/1806.00236	-
 2018	06	SR-CNN-VAE-GAN	Semi-Recurrent CNN-based VAE-GAN for Sequential Data Generation	https://arxiv.org/abs/1806.00509	https://github.com/makbari7/SR-CNN-VAE-GAN
 2018	06	SeUDA	Semantic-Aware Generative Adversarial Nets for Unsupervised Domain Adaptation in Chest X-ray Segmentation	https://arxiv.org/abs/1806.00600	-
@@ -462,4 +463,3 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code
 2018	07	ISGAN	Invisible Steganography via Generative Adversarial Network	https://arxiv.org/abs/1807.08571	-
 2018	07	AlphaGAN	AlphaGAN: Generative adversarial networks for natural image matting	https://arxiv.org/abs/1807.10088	-
 2018	07	Dropout-GAN	Dropout-GAN: Learning from a Dynamic Ensemble of Discriminators	https://arxiv.org/abs/1807.11346	-
-2018	05	speech-driven animation GAN	End-to-End Speech-Driven Facial Animation with Temporal GANs	https://arxiv.org/abs/1805.09313	-
