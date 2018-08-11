@@ -388,7 +388,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * SiGAN - [SiGAN: Siamese Generative Adversarial Network for Identity-Preserving Face Hallucination](https://arxiv.org/abs/1807.08370) 
 * SimGAN - [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/abs/1612.07828) 
 * SisGAN - [Semantic Image Synthesis via Adversarial Learning](https://arxiv.org/abs/1707.06873) 
-* Sketcher-Refiner GAN - [Learning Myelin Content in Multiple Sclerosis from Multimodal MRI through Adversarial Training](-) ([github](None))
+* Sketcher-Refiner GAN - [Learning Myelin Content in Multiple Sclerosis from Multimodal MRI through Adversarial Training](https://arxiv.org/abs/1804.08039) 
 * SketchGAN - [Adversarial Training For Sketch Retrieval](https://arxiv.org/abs/1607.02748) 
 * SketchyGAN - [SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis](https://arxiv.org/abs/1801.02753) 
 * SL-GAN - [Semi-Latent GAN: Learning to generate and modify facial images from attributes](https://arxiv.org/abs/1704.02166) 
