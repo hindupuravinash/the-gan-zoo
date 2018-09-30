@@ -463,3 +463,5 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code	Watches	Stars	Forks
 2018	7	SiGAN	SiGAN: Siamese Generative Adversarial Network for Identity-Preserving Face Hallucination	https://arxiv.org/abs/1807.08370	-			
 2018	7	TequilaGAN	TequilaGAN: How to easily identify GAN samples	https://arxiv.org/abs/1807.04919	-			
 2018	7	WGAN-L1	Subsampled Turbulence Removal Network	https://arxiv.org/abs/1807.04418	-			
+2018  08  Skip-Thought GAN  Generating Text through Adversarial Training using Skip-Thought Vectors https://arxiv.org/abs/1808.08703  -			
+
