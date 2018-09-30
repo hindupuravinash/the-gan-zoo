@@ -5,11 +5,13 @@ from __future__ import division
 
 import numpy as np
 import matplotlib.pyplot as plt
+from bs4 import BeautifulSoup
+import requests
+import csv
 
 
 def load_data():
     """ Load GANs data from the gans.csv file """
-    import csv
 
     with open('gans.tsv') as fid:
         reader = csv.DictReader(fid, delimiter='\t')
@@ -45,8 +47,32 @@ def update_figure(gans):
         plt.ylabel("Total number of papers")
         plt.savefig('cumulative_gans.jpg')
 
+def update_github_stats(gans):
+    """ Update Github stats """
+    num_rows = len(gans)
+    print('Fetching Github stats...')
+    for i, gan in enumerate(gans):
+        url = gan['Official_Code']
+        if url != "-" and url != "":
+            print(str(i) + '/' + str(num_rows))
+            result = requests.get(url)
+            c = result.text
+            soup = BeautifulSoup(c, "html.parser")
+            samples = soup.select("a.social-count")
+            gan['Watches'] = samples[0].get_text().strip().replace(",", "")
+            gan['Stars'] = samples[1].get_text().strip().replace(",", "")
+            gan['Forks'] = samples[2].get_text().strip().replace(",", "")
+
+    print(str(i) + '/' + str(num_rows))
+    print('Complete.')
+    
+    with open('gans.tsv', 'w') as outfile:
+        fp = csv.DictWriter(outfile, gans[0].keys(), delimiter='\t')
+        fp.writeheader()
+        fp.writerows(gans)
 
 if __name__ == '__main__':
     GANS = load_data()
     update_readme(GANS)
     update_figure(GANS)
+    update_github_stats(GANS)
