@@ -197,6 +197,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * FusionGAN - [Learning to Fuse Music Genres with Generative Adversarial Dual Learning](https://arxiv.org/abs/1712.01456) 
 * FusionGAN - [Generating a Fusion Image: One's Identity and Another's Shape](https://arxiv.org/abs/1804.07455) 
 * G2-GAN - [Geometry Guided Adversarial Facial Expression Synthesis](https://arxiv.org/abs/1712.03474) 
+* G2LGAN - [Global-to-Local Generative Model for 3D Shapes](http://vcc.szu.edu.cn/research/2018/G2L) 
 * GAAN - [Generative Adversarial Autoencoder Networks](https://arxiv.org/abs/1803.08887) 
 * GAF - [Generative Adversarial Forests for Better Conditioned Adversarial Learning](https://arxiv.org/abs/1805.05185) 
 * GAGAN - [GAGAN: Geometry-Aware Generative Adverserial Networks](https://arxiv.org/abs/1712.00684) 
