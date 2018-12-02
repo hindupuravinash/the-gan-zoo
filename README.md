@@ -355,6 +355,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * pix2pix - [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) ([github](https://github.com/phillipi/pix2pix))
 * pix2pixHD - [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/abs/1711.11585) ([github](https://github.com/NVIDIA/pix2pixHD))
 * PixelGAN - [PixelGAN Autoencoders](https://arxiv.org/abs/1706.00531) 
+* PlatonicGAN - [Escaping Plato's Cave using Adversarial Training: 3D Shape From Unstructured 2D Image Collections](https://arxiv.org/abs/1811.11606)
 * PM-GAN - [PM-GANs: Discriminative Representation Learning for Action Recognition Using Partial-modalities](https://arxiv.org/abs/1804.06248) 
 * PN-GAN - [Pose-Normalized Image Generation for Person Re-identification](https://arxiv.org/abs/1712.02225) 
 * POGAN - [Perceptually Optimized Generative Adversarial Network for Single Image Dehazing](https://arxiv.org/abs/1805.01084) 
