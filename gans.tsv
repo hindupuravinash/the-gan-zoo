@@ -406,6 +406,7 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code	Watches	Stars	Forks
 2018	5	SG-GAN	Sparsely Grouped Multi-task Generative Adversarial Networks for Facial Attribute Manipulation	https://arxiv.org/abs/1805.07509	-			
 2018	5	speech-driven animation GAN	End-to-End Speech-Driven Facial Animation with Temporal GANs	https://arxiv.org/abs/1805.09313	-			
 2018	5	WGAN-CLS	Text to Image Synthesis Using Generative Adversarial Networks	https://arxiv.org/abs/1805.00676	-			
+2018    5   DSGAN   DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction  https://arxiv.org/abs/1805.09929    -
 2018	6	Adaptive GAN	Customizing an Adversarial Example Generator with Class-Conditional GANs	https://arxiv.org/abs/1806.10496	-			
 2018	6	APD	Adversarial Distillation of Bayesian Neural Network Posteriors	https://arxiv.org/abs/1806.10317	-			
 2018	6	BinGAN	BinGAN: Learning Compact Binary Descriptors with a Regularized GAN	https://arxiv.org/abs/1806.06778	-			
@@ -499,4 +500,4 @@ Year	Month	Abbr.	Title	Arxiv	Official_Code	Watches	Stars	Forks
 2018	9	SiftingGAN	SiftingGAN: Generating and Sifting Labeled Samples to Improve the Remote Sensing Image Scene Classification Baseline in vitro	https://arxiv.org/abs/1809.04985	-			
 2018	9	SLSR	Sparse Label Smoothing for Semi-supervised Person Re-Identification	https://arxiv.org/abs/1809.04976	-			
 2018	9	Twin-GAN	Twin-GAN -- Unpaired Cross-Domain Image Translation with Weight-Sharing GANs	https://arxiv.org/abs/1809.00946	-			
-2018	9	WaveletGLCA-GAN	Global and Local Consistent Wavelet-domain Age Synthesis	https://arxiv.org/abs/1809.07764	-			
+2018	9	WaveletGLCA-GAN	Global and Local Consistent Wavelet-domain Age Synthesis	https://arxiv.org/abs/1809.07764	-			   
