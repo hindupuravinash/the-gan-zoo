@@ -151,6 +151,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * DRAGAN - [How to Train Your DRAGAN](https://arxiv.org/abs/1705.07215) ([github](https://github.com/kodalinaveen3/DRAGAN))
 * Dropout-GAN - [Dropout-GAN: Learning from a Dynamic Ensemble of Discriminators](https://arxiv.org/abs/1807.11346) 
 * DRPAN - [Discriminative Region Proposal Adversarial Networks for High-Quality Image-to-Image Translation](https://arxiv.org/abs/1711.09554) 
+* DSGAN - [DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction](https://arxiv.org/abs/1805.09929)
 * DSH-GAN - [Deep Semantic Hashing with Generative Adversarial Networks](https://arxiv.org/abs/1804.08275) 
 * DSP-GAN - [Depth Structure Preserving Scene Image Generation](https://arxiv.org/abs/1706.00212) 
 * DTLC-GAN - [Generative Adversarial Image Synthesis with Decision Tree Latent Controller](https://arxiv.org/abs/1805.10603) 
