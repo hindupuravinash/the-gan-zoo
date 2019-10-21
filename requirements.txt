@@ -21,5 +21,5 @@ pytz==2018.5
 requests==2.19.1
 six==1.11.0
 typed-ast==1.1.0
-urllib3==1.23
+urllib3==1.24.2
 wrapt==1.10.11
