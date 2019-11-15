@@ -70,6 +70,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * BicycleGAN - [Toward Multimodal Image-to-Image Translation](https://arxiv.org/abs/1711.11586) ([github](https://github.com/junyanz/BicycleGAN))
 * BiGAN - [Adversarial Feature Learning](https://arxiv.org/abs/1605.09782v7) 
 * BinGAN - [BinGAN: Learning Compact Binary Descriptors with a Regularized GAN](https://arxiv.org/abs/1806.06778) 
+* BigGAN - [BigGAN: Large Scale GAN Training for high fidelity natural Image Synthesis](https://arxiv.org/abs/1809.11096) 
 * BourGAN - [BourGAN: Generative Networks with Metric Embeddings](https://arxiv.org/abs/1805.07674) 
 * BranchGAN - [Branched Generative Adversarial Networks for Multi-Scale Image Manifold Learning](https://arxiv.org/abs/1803.08467) 
 * BRE - [Improving GAN Training via Binarized Representation Entropy (BRE) Regularization](https://arxiv.org/abs/1805.03644) ([github](https://github.com/BorealisAI/bre-gan))
