@@ -416,6 +416,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * SiftingGAN - [SiftingGAN: Generating and Sifting Labeled Samples to Improve the Remote Sensing Image Scene Classification Baseline in vitro](https://arxiv.org/abs/1809.04985) 
 * SiGAN - [SiGAN: Siamese Generative Adversarial Network for Identity-Preserving Face Hallucination](https://arxiv.org/abs/1807.08370) 
 * SimGAN - [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/abs/1612.07828) 
+* SinGAN - [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/abs/1905.01164)
 * SisGAN - [Semantic Image Synthesis via Adversarial Learning](https://arxiv.org/abs/1707.06873) 
 * Sketcher-Refiner GAN - [Learning Myelin Content in Multiple Sclerosis from Multimodal MRI through Adversarial Training](https://arxiv.org/abs/1804.08039) 
 * SketchGAN - [Adversarial Training For Sketch Retrieval](https://arxiv.org/abs/1607.02748) 
