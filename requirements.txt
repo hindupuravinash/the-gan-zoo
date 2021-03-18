@@ -13,7 +13,7 @@ MarkupSafe==1.0
 matplotlib==2.2.3
 mccabe==0.6.1
 numpy==1.15.1
-Pillow==5.2.0
+Pillow==8.1.1
 pylint==2.1.1
 pyparsing==2.2.0
 python-dateutil==2.7.3
