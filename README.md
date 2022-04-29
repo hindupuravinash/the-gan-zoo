@@ -513,4 +513,5 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * α-GAN - [Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/abs/1706.04987) ([github](https://github.com/victor-shepardson/alpha-GAN))
 * β-GAN - [Annealed Generative Adversarial Networks](https://arxiv.org/abs/1705.07505) 
 * Δ-GAN - [Triangle Generative Adversarial Networks](https://arxiv.org/abs/1709.06548) 
-
+* CycleGAN-VC2 - [CycleGAN-VC2: Improved CycleGAN-based Non-parallel Voice Conversion](https://arxiv.org/abs/1904.04631)([code](https://github.com/jackaduma/CycleGAN-VC2))
+* CycleGAN-VC3 - [CycleGAN-VC3: Examining and Improving CycleGAN-VCs for Mel-spectrogram Conversion](https://arxiv.org/abs/2010.11672)([code](https://github.com/jackaduma/CycleGAN-VC3))
