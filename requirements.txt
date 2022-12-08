@@ -1,7 +1,7 @@
 astroid==2.0.4
 beautifulsoup4==4.6.3
 bs4==0.0.1
-certifi==2018.8.24
+certifi==2022.12.7
 chardet==3.0.4
 cycler==0.10.0
 idna==2.7
