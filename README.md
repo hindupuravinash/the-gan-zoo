@@ -62,7 +62,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * BCGAN - [Bayesian Conditional Generative Adverserial Networks](https://arxiv.org/abs/1706.05477) 
 * BCGAN - [Bidirectional Conditional Generative Adversarial networks](https://arxiv.org/abs/1711.07461) 
 * BEAM - [Boltzmann Encoded Adversarial Machines](https://arxiv.org/abs/1804.08682) 
-* BEGAN - [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717) 
+* BEGAN - [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717) ([github](https://github.com/renan-siqueira/my-own-BEGAN-implementation))
 * BEGAN-CS - [Escaping from Collapsing Modes in a Constrained Space](https://arxiv.org/abs/1808.07258) 
 * Bellman GAN - [Distributional Multivariate Policy Evaluation and Exploration with the Bellman GAN](https://arxiv.org/abs/1808.01960) 
 * BGAN - [Binary Generative Adversarial Networks for Image Retrieval](https://arxiv.org/abs/1708.04150) ([github](https://github.com/htconquer/BGAN))
